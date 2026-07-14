@@ -1,0 +1,7 @@
+barangay,lat,lon,weight,overall_cluster,overall_demand_level,modal_hotspot,modal_hotspot_weight
+Gusa,8.476,124.682,59.0,1,High Demand,Gusa National Highway,50
+Cugman,8.47,124.705,16.0,1,High Demand,Cugman Highway,20
+Tablon,8.482,124.7285,18.0,2,Moderate Demand,Tablon Crossing,25
+Agusan,8.4885,124.738,10.0,2,Moderate Demand,Agusan Crossing,20
+Puerto,8.5005,124.7505,28.0,0,Low Demand,Puerto National Highway,55
+Bugo,8.5055,124.754,52.0,0,Low Demand,Bugo Public Market,65

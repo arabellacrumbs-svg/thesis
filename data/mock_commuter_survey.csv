@@ -1,0 +1,386 @@
+respondent_id,boarding_barangay,boarding_lat,boarding_lon,boarding_hotspot,alighting_barangay,alighting_lat,alighting_lon,alighting_hotspot,waiting_time_cat,waiting_location,stopping_pattern,is_route_endpoint
+R001,Tablon,8.482071,124.728511,Tablon Crossing,Cogon,8.477489,124.645865,Cogon Market,16-20 min,Sidewalk,Anywhere Along Road,1
+R002,Bugo,8.506979,124.753499,Bugo Highway,Cogon,8.477434,124.645909,Cogon Market,5-10 min,Road Shoulder,Informal Common Spot,1
+R003,Gusa,8.475974,124.681922,Gusa National Highway,Cogon,8.477579,124.645978,Cogon Market,<5 min,Sidewalk,Informal Common Spot,1
+R004,Gusa,8.475986,124.681889,Gusa National Highway,Bugo,8.506918,124.753579,Bugo Highway,16-20 min,Road Shoulder,Informal Common Spot,1
+R005,Cugman,8.470062,124.705018,Cugman Highway,Cogon,8.477557,124.646031,Cogon Market,<5 min,Sidewalk,Anywhere Along Road,1
+R006,Puerto,8.500518,124.750569,Puerto National Highway,Gusa,8.474926,124.682901,Gusa Crossing,5-10 min,In Front of Establishment,Designated Stop,0
+R007,Puerto,8.500628,124.750492,Puerto National Highway,Cogon,8.476431,124.645341,Cogon Terminal,16-20 min,Sidewalk,Designated Stop,1
+R008,Bugo,8.507052,124.753709,Bugo Highway,Gusa,8.475948,124.682121,Gusa National Highway,5-10 min,Under a Tree,Anywhere Along Road,0
+R009,Bugo,8.507002,124.753616,Bugo Highway,Cogon,8.477334,124.645903,Cogon Market,5-10 min,Sidewalk,Informal Common Spot,1
+R010,Bugo,8.505541,124.754013,Bugo Public Market,Bugo,8.505525,124.753909,Bugo Public Market,<5 min,Sidewalk,Informal Common Spot,1
+R011,Gusa,8.475009,124.68299,Gusa Crossing,Puerto,8.500454,124.750398,Puerto National Highway,5-10 min,Road Shoulder,Designated Stop,0
+R012,Puerto,8.500286,124.750564,Puerto National Highway,Gusa,8.475991,124.682106,Gusa National Highway,5-10 min,Under a Tree,Informal Common Spot,0
+R013,Bugo,8.506921,124.753405,Bugo Highway,Cogon,8.477509,124.645888,Cogon Market,16-20 min,Road Shoulder,Designated Stop,1
+R014,Bugo,8.505667,124.75392,Bugo Public Market,Tablon,8.481989,124.728529,Tablon Crossing,16-20 min,Under a Tree,Designated Stop,0
+R015,Puerto,8.501638,124.749564,Puerto Junction,Puerto,8.501571,124.749574,Puerto Junction,11-15 min,Sidewalk,Informal Common Spot,0
+R016,Puerto,8.500527,124.750609,Puerto National Highway,Puerto,8.501524,124.749574,Puerto Junction,>20 min,Road Shoulder,Anywhere Along Road,0
+R017,Agusan,8.488547,124.738044,Agusan Crossing,Cogon,8.476945,124.646966,Cogon Downtown,5-10 min,Sidewalk,Anywhere Along Road,1
+R018,Gusa,8.475022,124.682973,Gusa Crossing,Cogon,8.47747,124.645945,Cogon Market,5-10 min,Under a Tree,Anywhere Along Road,1
+R019,Gusa,8.476021,124.681945,Gusa National Highway,Cogon,8.477414,124.64604,Cogon Market,5-10 min,In Front of Establishment,Anywhere Along Road,0
+R020,Bugo,8.505433,124.754047,Bugo Public Market,Cugman,8.47,124.705058,Cugman Highway,5-10 min,Road Shoulder,Anywhere Along Road,0
+R021,Bugo,8.507086,124.753455,Bugo Highway,Cugman,8.469972,124.704991,Cugman Highway,>20 min,In Front of Establishment,Informal Common Spot,0
+R022,Gusa,8.475032,124.682956,Gusa Crossing,Cogon,8.477021,124.647089,Cogon Downtown,<5 min,Sidewalk,Informal Common Spot,1
+R023,Gusa,8.475909,124.682026,Gusa National Highway,Bugo,8.507115,124.753497,Bugo Highway,11-15 min,Sidewalk,Anywhere Along Road,0
+R024,Agusan,8.489356,124.736961,Agusan Highway,Cogon,8.477408,124.645946,Cogon Market,16-20 min,Sidewalk,Informal Common Spot,1
+R025,Bugo,8.506888,124.753424,Bugo Highway,Cogon,8.477638,124.646129,Cogon Market,5-10 min,Road Shoulder,Anywhere Along Road,1
+R026,Agusan,8.489292,124.73697,Agusan Highway,Cogon,8.477486,124.645935,Cogon Market,5-10 min,Road Shoulder,Anywhere Along Road,1
+R027,Cugman,8.469089,124.706044,Cugman Crossing,Cugman,8.469035,124.705999,Cugman Crossing,5-10 min,Sidewalk,Informal Common Spot,0
+R028,Gusa,8.476063,124.681941,Gusa National Highway,Cogon,8.47757,124.645879,Cogon Market,11-15 min,Others,Anywhere Along Road,1
+R029,Gusa,8.475959,124.682126,Gusa National Highway,Gusa,8.47503,124.683033,Gusa Crossing,<5 min,Road Shoulder,Anywhere Along Road,0
+R030,Tablon,8.481988,124.728441,Tablon Crossing,Bugo,8.505491,124.754104,Bugo Public Market,16-20 min,In Front of Establishment,Designated Stop,1
+R031,Bugo,8.507155,124.753503,Bugo Highway,Bugo,8.505489,124.754148,Bugo Public Market,11-15 min,Road Shoulder,Designated Stop,1
+R032,Gusa,8.476093,124.681936,Gusa National Highway,Tablon,8.481956,124.728475,Tablon Crossing,5-10 min,Sidewalk,Informal Common Spot,0
+R033,Gusa,8.476123,124.681852,Gusa National Highway,Cogon,8.4775,124.646042,Cogon Market,16-20 min,Under a Tree,Anywhere Along Road,1
+R034,Bugo,8.505663,124.753923,Bugo Public Market,Tablon,8.481069,124.729328,Tablon Highway,<5 min,In Front of Establishment,Anywhere Along Road,0
+R035,Gusa,8.475058,124.68283,Gusa Crossing,Tablon,8.481983,124.728657,Tablon Crossing,<5 min,Under a Tree,Informal Common Spot,0
+R036,Bugo,8.507041,124.753409,Bugo Highway,Cogon,8.477518,124.645938,Cogon Market,<5 min,Sidewalk,Anywhere Along Road,0
+R037,Gusa,8.474977,124.683127,Gusa Crossing,Cogon,8.477111,124.646987,Cogon Downtown,>20 min,Sidewalk,Informal Common Spot,1
+R038,Gusa,8.474996,124.683043,Gusa Crossing,Cogon,8.47699,124.646923,Cogon Downtown,11-15 min,Road Shoulder,Anywhere Along Road,1
+R039,Bugo,8.506999,124.753495,Bugo Highway,Gusa,8.474861,124.682966,Gusa Crossing,11-15 min,Road Shoulder,Anywhere Along Road,0
+R040,Bugo,8.505459,124.753931,Bugo Public Market,Cogon,8.477583,124.645883,Cogon Market,5-10 min,Sidewalk,Anywhere Along Road,1
+R041,Bugo,8.507066,124.753567,Bugo Highway,Gusa,8.474914,124.682826,Gusa Crossing,11-15 min,Sidewalk,Anywhere Along Road,0
+R042,Bugo,8.505478,124.754093,Bugo Public Market,Cogon,8.476443,124.645417,Cogon Terminal,5-10 min,Sidewalk,Anywhere Along Road,0
+R043,Gusa,8.476018,124.682033,Gusa National Highway,Cogon,8.476445,124.64544,Cogon Terminal,16-20 min,In Front of Establishment,Anywhere Along Road,1
+R044,Bugo,8.507067,124.75351,Bugo Highway,Cogon,8.477021,124.646972,Cogon Downtown,5-10 min,Road Shoulder,Designated Stop,1
+R045,Puerto,8.501505,124.749631,Puerto Junction,Cogon,8.477501,124.645846,Cogon Market,<5 min,Road Shoulder,Designated Stop,0
+R046,Agusan,8.488565,124.738021,Agusan Crossing,Cugman,8.469844,124.705044,Cugman Highway,11-15 min,Others,Anywhere Along Road,0
+R047,Gusa,8.475096,124.682922,Gusa Crossing,Puerto,8.50033,124.750495,Puerto National Highway,11-15 min,Under a Tree,Informal Common Spot,0
+R048,Puerto,8.501496,124.749568,Puerto Junction,Bugo,8.505511,124.753891,Bugo Public Market,11-15 min,Sidewalk,Designated Stop,1
+R049,Bugo,8.506952,124.753602,Bugo Highway,Cogon,8.477516,124.646138,Cogon Market,11-15 min,Sidewalk,Anywhere Along Road,1
+R050,Puerto,8.500525,124.750591,Puerto National Highway,Gusa,8.47588,124.68193,Gusa National Highway,16-20 min,In Front of Establishment,Anywhere Along Road,0
+R051,Bugo,8.50541,124.754121,Bugo Public Market,Cugman,8.47009,124.704973,Cugman Highway,11-15 min,Road Shoulder,Anywhere Along Road,0
+R052,Bugo,8.507018,124.753595,Bugo Highway,Cogon,8.47743,124.646116,Cogon Market,5-10 min,Sidewalk,Anywhere Along Road,1
+R053,Tablon,8.482089,124.728515,Tablon Crossing,Cogon,8.476627,124.645522,Cogon Terminal,5-10 min,Road Shoulder,Designated Stop,1
+R054,Bugo,8.506929,124.753635,Bugo Highway,Cogon,8.477002,124.64683,Cogon Downtown,5-10 min,Sidewalk,Designated Stop,1
+R055,Gusa,8.474923,124.683106,Gusa Crossing,Agusan,8.488413,124.737877,Agusan Crossing,>20 min,Sidewalk,Designated Stop,0
+R056,Bugo,8.505594,124.754095,Bugo Public Market,Cogon,8.476528,124.645637,Cogon Terminal,11-15 min,Sidewalk,Anywhere Along Road,0
+R057,Bugo,8.505598,124.753789,Bugo Public Market,Cogon,8.477577,124.646013,Cogon Market,11-15 min,Others,Anywhere Along Road,0
+R058,Bugo,8.505454,124.753882,Bugo Public Market,Cogon,8.477525,124.645826,Cogon Market,11-15 min,Sidewalk,Informal Common Spot,0
+R059,Puerto,8.500422,124.750538,Puerto National Highway,Cogon,8.476905,124.647147,Cogon Downtown,16-20 min,Sidewalk,Informal Common Spot,1
+R060,Gusa,8.475974,124.681907,Gusa National Highway,Puerto,8.50157,124.749485,Puerto Junction,16-20 min,Road Shoulder,Anywhere Along Road,0
+R061,Puerto,8.500492,124.750429,Puerto National Highway,Cugman,8.470019,124.704967,Cugman Highway,16-20 min,Sidewalk,Anywhere Along Road,0
+R062,Tablon,8.481984,124.728515,Tablon Crossing,Cugman,8.470026,124.705057,Cugman Highway,16-20 min,Sidewalk,Informal Common Spot,0
+R063,Cugman,8.469998,124.705013,Cugman Highway,Bugo,8.507123,124.753574,Bugo Highway,11-15 min,In Front of Establishment,Anywhere Along Road,1
+R064,Puerto,8.501511,124.749462,Puerto Junction,Cogon,8.477472,124.645928,Cogon Market,11-15 min,Road Shoulder,Anywhere Along Road,1
+R065,Cugman,8.468932,124.706123,Cugman Crossing,Cogon,8.4775,124.646046,Cogon Market,5-10 min,Sidewalk,Anywhere Along Road,0
+R066,Bugo,8.507022,124.753601,Bugo Highway,Puerto,8.500609,124.750484,Puerto National Highway,5-10 min,Sidewalk,Designated Stop,0
+R067,Bugo,8.507007,124.753514,Bugo Highway,Cogon,8.476463,124.645741,Cogon Terminal,11-15 min,Road Shoulder,Designated Stop,0
+R068,Puerto,8.501582,124.749416,Puerto Junction,Cogon,8.476947,124.647021,Cogon Downtown,<5 min,Under a Tree,Anywhere Along Road,0
+R069,Puerto,8.500613,124.750557,Puerto National Highway,Cogon,8.477569,124.646093,Cogon Market,5-10 min,Others,Designated Stop,0
+R070,Tablon,8.482016,124.728438,Tablon Crossing,Cogon,8.476407,124.64553,Cogon Terminal,16-20 min,Others,Anywhere Along Road,1
+R071,Tablon,8.481986,124.728282,Tablon Crossing,Cogon,8.477532,124.646128,Cogon Market,5-10 min,Sidewalk,Designated Stop,1
+R072,Puerto,8.501438,124.749458,Puerto Junction,Cogon,8.477463,124.645865,Cogon Market,5-10 min,Road Shoulder,Informal Common Spot,0
+R073,Tablon,8.481889,124.728322,Tablon Crossing,Cogon,8.476875,124.646964,Cogon Downtown,16-20 min,In Front of Establishment,Designated Stop,1
+R074,Puerto,8.500499,124.750383,Puerto National Highway,Cogon,8.477598,124.646097,Cogon Market,11-15 min,Under a Tree,Anywhere Along Road,1
+R075,Bugo,8.505593,124.754024,Bugo Public Market,Cogon,8.4775,124.646039,Cogon Market,>20 min,In Front of Establishment,Anywhere Along Road,0
+R076,Gusa,8.474967,124.682937,Gusa Crossing,Cogon,8.477504,124.645899,Cogon Market,11-15 min,Under a Tree,Designated Stop,1
+R077,Tablon,8.481961,124.728502,Tablon Crossing,Cogon,8.476933,124.647116,Cogon Downtown,16-20 min,Sidewalk,Anywhere Along Road,1
+R078,Gusa,8.475044,124.682895,Gusa Crossing,Cogon,8.476969,124.647073,Cogon Downtown,>20 min,Road Shoulder,Anywhere Along Road,0
+R079,Tablon,8.48191,124.728475,Tablon Crossing,Cogon,8.477402,124.646115,Cogon Market,11-15 min,In Front of Establishment,Designated Stop,1
+R080,Gusa,8.474871,124.683053,Gusa Crossing,Cogon,8.477622,124.645979,Cogon Market,5-10 min,Sidewalk,Anywhere Along Road,1
+R081,Bugo,8.505699,124.75399,Bugo Public Market,Cogon,8.477126,124.647114,Cogon Downtown,11-15 min,In Front of Establishment,Anywhere Along Road,1
+R082,Gusa,8.476067,124.681992,Gusa National Highway,Cogon,8.476349,124.645636,Cogon Terminal,11-15 min,Under a Tree,Informal Common Spot,1
+R083,Gusa,8.475819,124.682107,Gusa National Highway,Cogon,8.476531,124.645434,Cogon Terminal,5-10 min,Road Shoulder,Informal Common Spot,1
+R084,Bugo,8.50542,124.75398,Bugo Public Market,Cogon,8.476404,124.645473,Cogon Terminal,5-10 min,Sidewalk,Anywhere Along Road,1
+R085,Bugo,8.507004,124.753473,Bugo Highway,Puerto,8.501454,124.749342,Puerto Junction,5-10 min,Road Shoulder,Informal Common Spot,0
+R086,Gusa,8.474975,124.683001,Gusa Crossing,Cogon,8.476847,124.646902,Cogon Downtown,16-20 min,Road Shoulder,Anywhere Along Road,1
+R087,Cugman,8.469889,124.70507,Cugman Highway,Cogon,8.477267,124.646045,Cogon Market,5-10 min,Road Shoulder,Anywhere Along Road,0
+R088,Gusa,8.476056,124.681932,Gusa National Highway,Cogon,8.47747,124.645851,Cogon Market,16-20 min,Waiting Shed,Designated Stop,1
+R089,Gusa,8.475149,124.682998,Gusa Crossing,Cogon,8.477104,124.647074,Cogon Downtown,16-20 min,Road Shoulder,Anywhere Along Road,0
+R090,Bugo,8.505521,124.753928,Bugo Public Market,Cogon,8.477068,124.647088,Cogon Downtown,11-15 min,In Front of Establishment,Designated Stop,1
+R091,Gusa,8.475951,124.681954,Gusa National Highway,Gusa,8.476062,124.682078,Gusa National Highway,5-10 min,Sidewalk,Designated Stop,0
+R092,Gusa,8.47611,124.681921,Gusa National Highway,Cogon,8.477423,124.64603,Cogon Market,11-15 min,Road Shoulder,Anywhere Along Road,1
+R093,Gusa,8.476028,124.682084,Gusa National Highway,Cogon,8.477009,124.647117,Cogon Downtown,11-15 min,Others,Anywhere Along Road,0
+R094,Tablon,8.481982,124.728615,Tablon Crossing,Puerto,8.500499,124.750471,Puerto National Highway,11-15 min,Road Shoulder,Informal Common Spot,0
+R095,Bugo,8.507037,124.753383,Bugo Highway,Cogon,8.476918,124.646905,Cogon Downtown,11-15 min,In Front of Establishment,Anywhere Along Road,0
+R096,Tablon,8.482107,124.728426,Tablon Crossing,Cogon,8.47739,124.646043,Cogon Market,11-15 min,Sidewalk,Anywhere Along Road,0
+R097,Bugo,8.507076,124.753583,Bugo Highway,Bugo,8.506805,124.753462,Bugo Highway,16-20 min,Sidewalk,Informal Common Spot,1
+R098,Gusa,8.475998,124.681918,Gusa National Highway,Cogon,8.477548,124.645989,Cogon Market,>20 min,Under a Tree,Informal Common Spot,0
+R099,Gusa,8.475029,124.682919,Gusa Crossing,Agusan,8.488611,124.73801,Agusan Crossing,5-10 min,Road Shoulder,Anywhere Along Road,0
+R100,Agusan,8.489594,124.736808,Agusan Highway,Cogon,8.477502,124.64602,Cogon Market,16-20 min,Road Shoulder,Informal Common Spot,1
+R101,Bugo,8.505588,124.753824,Bugo Public Market,Cogon,8.477459,124.646027,Cogon Market,>20 min,Sidewalk,Anywhere Along Road,1
+R102,Gusa,8.476065,124.682075,Gusa National Highway,Puerto,8.500491,124.750283,Puerto National Highway,5-10 min,In Front of Establishment,Designated Stop,0
+R103,Puerto,8.500585,124.750561,Puerto National Highway,Cogon,8.477022,124.646993,Cogon Downtown,5-10 min,Road Shoulder,Informal Common Spot,0
+R104,Bugo,8.505456,124.753896,Bugo Public Market,Tablon,8.480943,124.72957,Tablon Highway,5-10 min,Sidewalk,Informal Common Spot,0
+R105,Puerto,8.501433,124.74939,Puerto Junction,Bugo,8.505657,124.754021,Bugo Public Market,5-10 min,Sidewalk,Anywhere Along Road,1
+R106,Cugman,8.469017,124.706061,Cugman Crossing,Cugman,8.469976,124.705045,Cugman Highway,16-20 min,Waiting Shed,Informal Common Spot,0
+R107,Bugo,8.505547,124.75405,Bugo Public Market,Cogon,8.477489,124.645983,Cogon Market,<5 min,In Front of Establishment,Designated Stop,1
+R108,Bugo,8.50714,124.753548,Bugo Highway,Cogon,8.476497,124.645398,Cogon Terminal,16-20 min,Road Shoulder,Designated Stop,1
+R109,Gusa,8.475152,124.683042,Gusa Crossing,Cugman,8.469901,124.704987,Cugman Highway,>20 min,Sidewalk,Anywhere Along Road,0
+R110,Puerto,8.500459,124.750404,Puerto National Highway,Gusa,8.476033,124.682016,Gusa National Highway,11-15 min,Sidewalk,Anywhere Along Road,0
+R111,Tablon,8.481924,124.728476,Tablon Crossing,Agusan,8.489403,124.736981,Agusan Highway,11-15 min,Sidewalk,Informal Common Spot,0
+R112,Gusa,8.47591,124.681875,Gusa National Highway,Puerto,8.500522,124.750596,Puerto National Highway,5-10 min,Sidewalk,Anywhere Along Road,0
+R113,Puerto,8.500578,124.750553,Puerto National Highway,Puerto,8.500464,124.750537,Puerto National Highway,>20 min,Sidewalk,Informal Common Spot,0
+R114,Bugo,8.505621,124.754084,Bugo Public Market,Tablon,8.481888,124.728459,Tablon Crossing,11-15 min,Sidewalk,Designated Stop,0
+R115,Puerto,8.500424,124.750371,Puerto National Highway,Cugman,8.469957,124.704767,Cugman Highway,11-15 min,Sidewalk,Anywhere Along Road,0
+R116,Bugo,8.506965,124.753447,Bugo Highway,Cogon,8.477549,124.645929,Cogon Market,11-15 min,Road Shoulder,Informal Common Spot,0
+R117,Gusa,8.475052,124.682887,Gusa Crossing,Bugo,8.505704,124.754034,Bugo Public Market,16-20 min,Sidewalk,Designated Stop,0
+R118,Puerto,8.500495,124.750508,Puerto National Highway,Cugman,8.469917,124.704963,Cugman Highway,5-10 min,Road Shoulder,Designated Stop,0
+R119,Cugman,8.46902,124.706092,Cugman Crossing,Cogon,8.476901,124.647105,Cogon Downtown,16-20 min,Road Shoulder,Designated Stop,1
+R120,Bugo,8.505401,124.753909,Bugo Public Market,Cogon,8.477445,124.645912,Cogon Market,5-10 min,Sidewalk,Informal Common Spot,1
+R121,Puerto,8.500472,124.750633,Puerto National Highway,Cogon,8.476986,124.646976,Cogon Downtown,5-10 min,Road Shoulder,Designated Stop,1
+R122,Bugo,8.507045,124.753552,Bugo Highway,Cogon,8.477649,124.646007,Cogon Market,5-10 min,Sidewalk,Informal Common Spot,1
+R123,Gusa,8.476012,124.681967,Gusa National Highway,Cugman,8.470017,124.705005,Cugman Highway,>20 min,Under a Tree,Anywhere Along Road,0
+R124,Agusan,8.489476,124.736909,Agusan Highway,Cogon,8.477579,124.64601,Cogon Market,16-20 min,Road Shoulder,Informal Common Spot,0
+R125,Bugo,8.505538,124.753944,Bugo Public Market,Bugo,8.505411,124.753986,Bugo Public Market,5-10 min,Sidewalk,Anywhere Along Road,1
+R126,Agusan,8.488581,124.738071,Agusan Crossing,Gusa,8.475915,124.682118,Gusa National Highway,16-20 min,In Front of Establishment,Designated Stop,0
+R127,Bugo,8.50554,124.754116,Bugo Public Market,Puerto,8.501469,124.749453,Puerto Junction,16-20 min,Road Shoulder,Informal Common Spot,0
+R128,Cugman,8.468806,124.706064,Cugman Crossing,Cogon,8.476417,124.645405,Cogon Terminal,16-20 min,Road Shoulder,Designated Stop,1
+R129,Puerto,8.501476,124.749568,Puerto Junction,Cogon,8.477422,124.645996,Cogon Market,5-10 min,Sidewalk,Informal Common Spot,1
+R130,Gusa,8.476076,124.681902,Gusa National Highway,Cogon,8.476389,124.645527,Cogon Terminal,16-20 min,Under a Tree,Anywhere Along Road,0
+R131,Tablon,8.481956,124.728592,Tablon Crossing,Cogon,8.477539,124.646016,Cogon Market,16-20 min,Sidewalk,Informal Common Spot,1
+R132,Bugo,8.507001,124.753597,Bugo Highway,Cogon,8.476948,124.646992,Cogon Downtown,5-10 min,Sidewalk,Anywhere Along Road,1
+R133,Tablon,8.482032,124.728374,Tablon Crossing,Cogon,8.477612,124.646076,Cogon Market,5-10 min,In Front of Establishment,Anywhere Along Road,0
+R134,Gusa,8.47594,124.682103,Gusa National Highway,Cogon,8.477362,124.646191,Cogon Market,11-15 min,Sidewalk,Anywhere Along Road,0
+R135,Puerto,8.500386,124.750612,Puerto National Highway,Tablon,8.481919,124.728352,Tablon Crossing,11-15 min,Road Shoulder,Anywhere Along Road,0
+R136,Tablon,8.481924,124.728539,Tablon Crossing,Cogon,8.477027,124.647057,Cogon Downtown,>20 min,Road Shoulder,Designated Stop,1
+R137,Bugo,8.505523,124.753966,Bugo Public Market,Agusan,8.488595,124.737839,Agusan Crossing,<5 min,Sidewalk,Informal Common Spot,0
+R138,Bugo,8.505462,124.754037,Bugo Public Market,Tablon,8.482022,124.728338,Tablon Crossing,5-10 min,Road Shoulder,Anywhere Along Road,0
+R139,Tablon,8.481008,124.729597,Tablon Highway,Cogon,8.477499,124.645902,Cogon Market,11-15 min,Sidewalk,Informal Common Spot,1
+R140,Gusa,8.475853,124.682161,Gusa National Highway,Tablon,8.480929,124.729517,Tablon Highway,5-10 min,Road Shoulder,Informal Common Spot,0
+R141,Gusa,8.476016,124.681953,Gusa National Highway,Cogon,8.477384,124.645858,Cogon Market,11-15 min,Sidewalk,Informal Common Spot,0
+R142,Bugo,8.507006,124.753428,Bugo Highway,Gusa,8.476058,124.682077,Gusa National Highway,>20 min,Sidewalk,Anywhere Along Road,0
+R143,Puerto,8.500529,124.750505,Puerto National Highway,Cogon,8.477026,124.647289,Cogon Downtown,5-10 min,Waiting Shed,Informal Common Spot,0
+R144,Tablon,8.482013,124.728453,Tablon Crossing,Cogon,8.477567,124.645878,Cogon Market,5-10 min,In Front of Establishment,Anywhere Along Road,1
+R145,Bugo,8.505494,124.754171,Bugo Public Market,Cogon,8.476484,124.645391,Cogon Terminal,<5 min,Sidewalk,Anywhere Along Road,1
+R146,Puerto,8.500527,124.750404,Puerto National Highway,Cogon,8.4776,124.645932,Cogon Market,<5 min,Road Shoulder,Designated Stop,1
+R147,Puerto,8.50045,124.750456,Puerto National Highway,Cogon,8.47698,124.646967,Cogon Downtown,>20 min,Sidewalk,Anywhere Along Road,1
+R148,Gusa,8.474916,124.68297,Gusa Crossing,Cogon,8.476833,124.646809,Cogon Downtown,5-10 min,Waiting Shed,Informal Common Spot,1
+R149,Cugman,8.469893,124.704888,Cugman Highway,Puerto,8.501487,124.749524,Puerto Junction,11-15 min,In Front of Establishment,Designated Stop,0
+R150,Gusa,8.475865,124.682031,Gusa National Highway,Bugo,8.505512,124.75397,Bugo Public Market,16-20 min,Road Shoulder,Anywhere Along Road,1
+R151,Bugo,8.507202,124.753555,Bugo Highway,Cogon,8.476612,124.645492,Cogon Terminal,5-10 min,In Front of Establishment,Designated Stop,1
+R152,Gusa,8.476054,124.68194,Gusa National Highway,Cogon,8.477372,124.646139,Cogon Market,11-15 min,Under a Tree,Anywhere Along Road,0
+R153,Puerto,8.501296,124.749503,Puerto Junction,Cogon,8.476546,124.645362,Cogon Terminal,<5 min,Road Shoulder,Informal Common Spot,1
+R154,Puerto,8.500616,124.750564,Puerto National Highway,Cogon,8.477424,124.645943,Cogon Market,11-15 min,Sidewalk,Designated Stop,0
+R155,Puerto,8.500572,124.750499,Puerto National Highway,Tablon,8.481034,124.729489,Tablon Highway,11-15 min,Sidewalk,Informal Common Spot,0
+R156,Tablon,8.481048,124.729485,Tablon Highway,Bugo,8.505505,124.753977,Bugo Public Market,<5 min,In Front of Establishment,Anywhere Along Road,1
+R157,Agusan,8.489393,124.736917,Agusan Highway,Bugo,8.506894,124.75361,Bugo Highway,11-15 min,Road Shoulder,Anywhere Along Road,1
+R158,Bugo,8.507111,124.753596,Bugo Highway,Cogon,8.476912,124.647075,Cogon Downtown,5-10 min,Sidewalk,Anywhere Along Road,0
+R159,Bugo,8.507091,124.753448,Bugo Highway,Cogon,8.477559,124.645921,Cogon Market,16-20 min,Road Shoulder,Designated Stop,1
+R160,Gusa,8.475965,124.682075,Gusa National Highway,Cogon,8.477317,124.64595,Cogon Market,16-20 min,In Front of Establishment,Informal Common Spot,1
+R161,Gusa,8.475954,124.681997,Gusa National Highway,Cogon,8.477602,124.646122,Cogon Market,<5 min,Road Shoulder,Anywhere Along Road,0
+R162,Agusan,8.488471,124.737975,Agusan Crossing,Cogon,8.477643,124.646,Cogon Market,11-15 min,In Front of Establishment,Informal Common Spot,1
+R163,Gusa,8.474938,124.682923,Gusa Crossing,Puerto,8.500397,124.750653,Puerto National Highway,16-20 min,Road Shoulder,Designated Stop,0
+R164,Gusa,8.47482,124.683081,Gusa Crossing,Cogon,8.477537,124.646036,Cogon Market,5-10 min,Sidewalk,Informal Common Spot,1
+R165,Gusa,8.475137,124.682893,Gusa Crossing,Cogon,8.477425,124.645915,Cogon Market,5-10 min,Sidewalk,Anywhere Along Road,1
+R166,Bugo,8.505549,124.753981,Bugo Public Market,Bugo,8.505477,124.753879,Bugo Public Market,16-20 min,Road Shoulder,Informal Common Spot,1
+R167,Bugo,8.505426,124.753908,Bugo Public Market,Bugo,8.50551,124.753907,Bugo Public Market,11-15 min,Road Shoulder,Anywhere Along Road,1
+R168,Gusa,8.474838,124.683017,Gusa Crossing,Puerto,8.50049,124.750533,Puerto National Highway,<5 min,Road Shoulder,Anywhere Along Road,0
+R169,Bugo,8.506939,124.753452,Bugo Highway,Puerto,8.500482,124.750322,Puerto National Highway,>20 min,Sidewalk,Anywhere Along Road,0
+R170,Agusan,8.489458,124.737092,Agusan Highway,Cogon,8.477501,124.646041,Cogon Market,5-10 min,Sidewalk,Anywhere Along Road,1
+R171,Gusa,8.476043,124.682068,Gusa National Highway,Cogon,8.476441,124.645641,Cogon Terminal,11-15 min,Road Shoulder,Anywhere Along Road,1
+R172,Bugo,8.505601,124.753964,Bugo Public Market,Bugo,8.507018,124.753582,Bugo Highway,<5 min,Road Shoulder,Informal Common Spot,1
+R173,Puerto,8.50133,124.74946,Puerto Junction,Cogon,8.477107,124.646902,Cogon Downtown,11-15 min,Sidewalk,Anywhere Along Road,1
+R174,Bugo,8.506967,124.753488,Bugo Highway,Cogon,8.477007,124.646927,Cogon Downtown,>20 min,Road Shoulder,Designated Stop,0
+R175,Puerto,8.500523,124.750421,Puerto National Highway,Gusa,8.475002,124.68294,Gusa Crossing,11-15 min,Road Shoulder,Designated Stop,0
+R176,Bugo,8.505449,124.754088,Bugo Public Market,Cogon,8.476915,124.646933,Cogon Downtown,5-10 min,Road Shoulder,Designated Stop,0
+R177,Cugman,8.469975,124.705078,Cugman Highway,Tablon,8.481862,124.728471,Tablon Crossing,5-10 min,In Front of Establishment,Anywhere Along Road,0
+R178,Tablon,8.481118,124.729485,Tablon Highway,Agusan,8.488479,124.737864,Agusan Crossing,<5 min,Road Shoulder,Informal Common Spot,0
+R179,Gusa,8.476019,124.681883,Gusa National Highway,Puerto,8.500452,124.750472,Puerto National Highway,11-15 min,Road Shoulder,Informal Common Spot,0
+R180,Bugo,8.50549,124.753979,Bugo Public Market,Bugo,8.507014,124.753511,Bugo Highway,5-10 min,Sidewalk,Anywhere Along Road,1
+R181,Gusa,8.47616,124.681912,Gusa National Highway,Puerto,8.501545,124.749519,Puerto Junction,5-10 min,Sidewalk,Anywhere Along Road,0
+R182,Agusan,8.488478,124.738051,Agusan Crossing,Gusa,8.475954,124.68207,Gusa National Highway,16-20 min,In Front of Establishment,Anywhere Along Road,0
+R183,Cugman,8.469955,124.704962,Cugman Highway,Cogon,8.47744,124.645977,Cogon Market,>20 min,Sidewalk,Anywhere Along Road,1
+R184,Cugman,8.469966,124.705076,Cugman Highway,Gusa,8.47502,124.682931,Gusa Crossing,5-10 min,Road Shoulder,Anywhere Along Road,0
+R185,Gusa,8.475093,124.682797,Gusa Crossing,Agusan,8.488481,124.738072,Agusan Crossing,11-15 min,Sidewalk,Anywhere Along Road,0
+R186,Bugo,8.50694,124.753508,Bugo Highway,Cogon,8.476627,124.645443,Cogon Terminal,5-10 min,Road Shoulder,Anywhere Along Road,1
+R187,Tablon,8.480874,124.729475,Tablon Highway,Cogon,8.477378,124.646074,Cogon Market,<5 min,In Front of Establishment,Designated Stop,1
+R188,Gusa,8.474825,124.683116,Gusa Crossing,Gusa,8.475941,124.682008,Gusa National Highway,>20 min,Sidewalk,Anywhere Along Road,0
+R189,Gusa,8.4751,124.683063,Gusa Crossing,Cogon,8.476464,124.645292,Cogon Terminal,16-20 min,Sidewalk,Informal Common Spot,1
+R190,Gusa,8.475091,124.682998,Gusa Crossing,Cogon,8.477212,124.646911,Cogon Downtown,>20 min,Under a Tree,Designated Stop,1
+R191,Bugo,8.505573,124.753992,Bugo Public Market,Agusan,8.489399,124.736972,Agusan Highway,>20 min,Under a Tree,Anywhere Along Road,0
+R192,Bugo,8.507041,124.753535,Bugo Highway,Cogon,8.476997,124.647058,Cogon Downtown,11-15 min,In Front of Establishment,Anywhere Along Road,0
+R193,Bugo,8.507119,124.753349,Bugo Highway,Tablon,8.481962,124.728496,Tablon Crossing,11-15 min,Sidewalk,Designated Stop,0
+R194,Puerto,8.500501,124.75057,Puerto National Highway,Cogon,8.477505,124.645777,Cogon Market,5-10 min,In Front of Establishment,Designated Stop,1
+R195,Cugman,8.470042,124.705017,Cugman Highway,Cogon,8.477412,124.64606,Cogon Market,16-20 min,In Front of Establishment,Anywhere Along Road,1
+R196,Gusa,8.474965,124.683119,Gusa Crossing,Cogon,8.477535,124.646039,Cogon Market,11-15 min,Road Shoulder,Anywhere Along Road,1
+R197,Puerto,8.501371,124.749469,Puerto Junction,Cogon,8.477502,124.646151,Cogon Market,16-20 min,Sidewalk,Anywhere Along Road,0
+R198,Bugo,8.50547,124.753987,Bugo Public Market,Cogon,8.476383,124.645496,Cogon Terminal,5-10 min,Sidewalk,Anywhere Along Road,1
+R199,Bugo,8.506966,124.75348,Bugo Highway,Cogon,8.476536,124.645408,Cogon Terminal,11-15 min,Road Shoulder,Designated Stop,1
+R200,Gusa,8.475985,124.681911,Gusa National Highway,Tablon,8.481997,124.728382,Tablon Crossing,<5 min,Sidewalk,Designated Stop,0
+R201,Gusa,8.475031,124.682986,Gusa Crossing,Gusa,8.47509,124.683018,Gusa Crossing,11-15 min,In Front of Establishment,Informal Common Spot,0
+R202,Tablon,8.481752,124.728636,Tablon Crossing,Cogon,8.477134,124.646857,Cogon Downtown,5-10 min,Road Shoulder,Anywhere Along Road,1
+R203,Tablon,8.481967,124.728546,Tablon Crossing,Cogon,8.476357,124.645474,Cogon Terminal,5-10 min,Waiting Shed,Designated Stop,1
+R204,Tablon,8.480893,124.729469,Tablon Highway,Tablon,8.482001,124.728583,Tablon Crossing,5-10 min,Under a Tree,Informal Common Spot,0
+R205,Bugo,8.505534,124.753913,Bugo Public Market,Puerto,8.501512,124.749489,Puerto Junction,5-10 min,Sidewalk,Designated Stop,0
+R206,Tablon,8.481992,124.728473,Tablon Crossing,Puerto,8.501446,124.749538,Puerto Junction,5-10 min,Under a Tree,Designated Stop,0
+R207,Puerto,8.50146,124.749661,Puerto Junction,Puerto,8.501449,124.74961,Puerto Junction,11-15 min,Sidewalk,Anywhere Along Road,0
+R208,Bugo,8.505466,124.753946,Bugo Public Market,Cogon,8.477703,124.646082,Cogon Market,16-20 min,Under a Tree,Anywhere Along Road,1
+R209,Puerto,8.501711,124.749463,Puerto Junction,Puerto,8.500518,124.750423,Puerto National Highway,5-10 min,Sidewalk,Anywhere Along Road,0
+R210,Cugman,8.468827,124.706029,Cugman Crossing,Cogon,8.477457,124.645843,Cogon Market,16-20 min,Road Shoulder,Informal Common Spot,1
+R211,Bugo,8.505503,124.754061,Bugo Public Market,Bugo,8.505654,124.753918,Bugo Public Market,<5 min,In Front of Establishment,Designated Stop,1
+R212,Tablon,8.480854,124.72939,Tablon Highway,Cogon,8.477511,124.645856,Cogon Market,11-15 min,Road Shoulder,Informal Common Spot,1
+R213,Gusa,8.475211,124.68302,Gusa Crossing,Bugo,8.507262,124.753738,Bugo Highway,11-15 min,Sidewalk,Anywhere Along Road,1
+R214,Gusa,8.474853,124.68295,Gusa Crossing,Cogon,8.476917,124.646982,Cogon Downtown,5-10 min,Road Shoulder,Anywhere Along Road,1
+R215,Gusa,8.474831,124.683033,Gusa Crossing,Gusa,8.474936,124.683068,Gusa Crossing,11-15 min,Sidewalk,Designated Stop,0
+R216,Bugo,8.507109,124.753453,Bugo Highway,Cogon,8.477046,124.647066,Cogon Downtown,5-10 min,In Front of Establishment,Anywhere Along Road,1
+R217,Tablon,8.480992,124.729667,Tablon Highway,Bugo,8.506934,124.753419,Bugo Highway,5-10 min,In Front of Establishment,Designated Stop,0
+R218,Puerto,8.501598,124.749444,Puerto Junction,Bugo,8.505522,124.754009,Bugo Public Market,16-20 min,Under a Tree,Anywhere Along Road,0
+R219,Puerto,8.500536,124.750445,Puerto National Highway,Puerto,8.500607,124.750506,Puerto National Highway,5-10 min,Road Shoulder,Anywhere Along Road,0
+R220,Tablon,8.481896,124.728511,Tablon Crossing,Cogon,8.477487,124.645996,Cogon Market,11-15 min,Sidewalk,Informal Common Spot,1
+R221,Gusa,8.475925,124.681855,Gusa National Highway,Gusa,8.476032,124.682025,Gusa National Highway,5-10 min,Sidewalk,Anywhere Along Road,0
+R222,Gusa,8.47599,124.68209,Gusa National Highway,Cogon,8.476904,124.647065,Cogon Downtown,>20 min,Sidewalk,Anywhere Along Road,0
+R223,Tablon,8.482096,124.728382,Tablon Crossing,Cogon,8.477417,124.646079,Cogon Market,<5 min,Waiting Shed,Designated Stop,1
+R224,Puerto,8.500525,124.750386,Puerto National Highway,Cugman,8.470091,124.705062,Cugman Highway,<5 min,Sidewalk,Informal Common Spot,0
+R225,Gusa,8.475973,124.682004,Gusa National Highway,Cogon,8.477672,124.645913,Cogon Market,11-15 min,Waiting Shed,Informal Common Spot,1
+R226,Gusa,8.474872,124.682922,Gusa Crossing,Puerto,8.500471,124.750521,Puerto National Highway,5-10 min,Sidewalk,Informal Common Spot,0
+R227,Puerto,8.500564,124.750451,Puerto National Highway,Puerto,8.501671,124.749707,Puerto Junction,11-15 min,Road Shoulder,Informal Common Spot,0
+R228,Bugo,8.505341,124.754066,Bugo Public Market,Cogon,8.477027,124.646778,Cogon Downtown,5-10 min,In Front of Establishment,Designated Stop,1
+R229,Gusa,8.474916,124.683005,Gusa Crossing,Gusa,8.474876,124.683056,Gusa Crossing,11-15 min,Sidewalk,Anywhere Along Road,0
+R230,Gusa,8.475991,124.681964,Gusa National Highway,Cogon,8.47747,124.645876,Cogon Market,11-15 min,Sidewalk,Designated Stop,1
+R231,Puerto,8.500455,124.750555,Puerto National Highway,Cogon,8.477538,124.646091,Cogon Market,11-15 min,Road Shoulder,Designated Stop,1
+R232,Bugo,8.505435,124.753954,Bugo Public Market,Cogon,8.476977,124.647086,Cogon Downtown,<5 min,Under a Tree,Informal Common Spot,0
+R233,Agusan,8.489543,124.737077,Agusan Highway,Cogon,8.477467,124.6461,Cogon Market,<5 min,Road Shoulder,Anywhere Along Road,1
+R234,Bugo,8.505499,124.754068,Bugo Public Market,Bugo,8.505451,124.753967,Bugo Public Market,<5 min,Sidewalk,Informal Common Spot,1
+R235,Tablon,8.482027,124.728424,Tablon Crossing,Cogon,8.477571,124.645837,Cogon Market,>20 min,Sidewalk,Anywhere Along Road,0
+R236,Bugo,8.506909,124.753714,Bugo Highway,Bugo,8.506964,124.753634,Bugo Highway,11-15 min,Road Shoulder,Designated Stop,1
+R237,Gusa,8.475965,124.682028,Gusa National Highway,Cogon,8.476405,124.645438,Cogon Terminal,11-15 min,Road Shoulder,Informal Common Spot,1
+R238,Cugman,8.469931,124.705028,Cugman Highway,Puerto,8.500567,124.750354,Puerto National Highway,5-10 min,Road Shoulder,Anywhere Along Road,0
+R239,Bugo,8.506923,124.75338,Bugo Highway,Agusan,8.488746,124.738123,Agusan Crossing,11-15 min,Road Shoulder,Anywhere Along Road,0
+R240,Gusa,8.47496,124.682895,Gusa Crossing,Agusan,8.488379,124.738148,Agusan Crossing,11-15 min,Road Shoulder,Designated Stop,0
+R241,Gusa,8.475954,124.68193,Gusa National Highway,Bugo,8.505748,124.754071,Bugo Public Market,11-15 min,Sidewalk,Informal Common Spot,0
+R242,Puerto,8.500569,124.750505,Puerto National Highway,Cogon,8.476382,124.645486,Cogon Terminal,11-15 min,Road Shoulder,Anywhere Along Road,0
+R243,Agusan,8.489417,124.737,Agusan Highway,Cogon,8.477574,124.646057,Cogon Market,>20 min,Sidewalk,Informal Common Spot,1
+R244,Puerto,8.500441,124.750517,Puerto National Highway,Cogon,8.476904,124.647014,Cogon Downtown,11-15 min,Sidewalk,Anywhere Along Road,0
+R245,Bugo,8.505576,124.753894,Bugo Public Market,Puerto,8.500633,124.750722,Puerto National Highway,5-10 min,Sidewalk,Designated Stop,0
+R246,Agusan,8.489563,124.736983,Agusan Highway,Cogon,8.477052,124.647118,Cogon Downtown,5-10 min,Waiting Shed,Anywhere Along Road,1
+R247,Agusan,8.489392,124.73709,Agusan Highway,Cogon,8.477502,124.645836,Cogon Market,<5 min,Sidewalk,Informal Common Spot,1
+R248,Puerto,8.500432,124.750519,Puerto National Highway,Cugman,8.469873,124.704978,Cugman Highway,11-15 min,Road Shoulder,Anywhere Along Road,0
+R249,Puerto,8.50057,124.750397,Puerto National Highway,Tablon,8.481979,124.728427,Tablon Crossing,11-15 min,Sidewalk,Designated Stop,0
+R250,Bugo,8.50548,124.754054,Bugo Public Market,Puerto,8.500407,124.750494,Puerto National Highway,5-10 min,Sidewalk,Designated Stop,0
+R251,Tablon,8.481955,124.728379,Tablon Crossing,Cugman,8.468902,124.705965,Cugman Crossing,5-10 min,Sidewalk,Anywhere Along Road,0
+R252,Bugo,8.505492,124.75401,Bugo Public Market,Cogon,8.477592,124.645787,Cogon Market,11-15 min,Road Shoulder,Anywhere Along Road,1
+R253,Gusa,8.475963,124.682003,Gusa National Highway,Cogon,8.477505,124.645925,Cogon Market,5-10 min,Road Shoulder,Designated Stop,1
+R254,Cugman,8.469011,124.705887,Cugman Crossing,Cogon,8.477617,124.646102,Cogon Market,16-20 min,Sidewalk,Informal Common Spot,1
+R255,Cugman,8.469739,124.704922,Cugman Highway,Cogon,8.477572,124.645868,Cogon Market,5-10 min,Others,Anywhere Along Road,1
+R256,Gusa,8.475733,124.682107,Gusa National Highway,Agusan,8.488513,124.738164,Agusan Crossing,11-15 min,Sidewalk,Informal Common Spot,0
+R257,Tablon,8.482025,124.728543,Tablon Crossing,Cogon,8.477508,124.64603,Cogon Market,5-10 min,Sidewalk,Anywhere Along Road,1
+R258,Cugman,8.469983,124.705069,Cugman Highway,Cugman,8.470135,124.704988,Cugman Highway,<5 min,Others,Informal Common Spot,0
+R259,Gusa,8.475181,124.682991,Gusa Crossing,Cogon,8.477545,124.645949,Cogon Market,11-15 min,In Front of Establishment,Informal Common Spot,1
+R260,Puerto,8.501437,124.749467,Puerto Junction,Cogon,8.476878,124.647038,Cogon Downtown,16-20 min,Sidewalk,Anywhere Along Road,1
+R261,Gusa,8.47485,124.683162,Gusa Crossing,Cogon,8.477655,124.646002,Cogon Market,11-15 min,In Front of Establishment,Anywhere Along Road,1
+R262,Puerto,8.500603,124.750543,Puerto National Highway,Cogon,8.477444,124.646027,Cogon Market,5-10 min,In Front of Establishment,Anywhere Along Road,1
+R263,Agusan,8.489418,124.737008,Agusan Highway,Puerto,8.500539,124.750512,Puerto National Highway,16-20 min,Road Shoulder,Designated Stop,0
+R264,Gusa,8.475997,124.682001,Gusa National Highway,Bugo,8.507041,124.753631,Bugo Highway,5-10 min,Road Shoulder,Designated Stop,0
+R265,Bugo,8.506961,124.753444,Bugo Highway,Cogon,8.477045,124.646969,Cogon Downtown,5-10 min,Sidewalk,Anywhere Along Road,1
+R266,Tablon,8.481999,124.728496,Tablon Crossing,Cogon,8.477043,124.647048,Cogon Downtown,11-15 min,Waiting Shed,Anywhere Along Road,0
+R267,Gusa,8.474958,124.683022,Gusa Crossing,Cogon,8.477392,124.646098,Cogon Market,<5 min,Sidewalk,Informal Common Spot,1
+R268,Gusa,8.476001,124.681952,Gusa National Highway,Agusan,8.489569,124.737087,Agusan Highway,<5 min,Road Shoulder,Anywhere Along Road,0
+R269,Cugman,8.469964,124.704963,Cugman Highway,Cogon,8.476931,124.646836,Cogon Downtown,<5 min,Sidewalk,Informal Common Spot,1
+R270,Puerto,8.500576,124.750482,Puerto National Highway,Cogon,8.477494,124.646037,Cogon Market,11-15 min,Road Shoulder,Anywhere Along Road,0
+R271,Cugman,8.470076,124.704892,Cugman Highway,Cogon,8.477393,124.645988,Cogon Market,11-15 min,Sidewalk,Designated Stop,0
+R272,Gusa,8.474956,124.683001,Gusa Crossing,Cogon,8.476908,124.646939,Cogon Downtown,>20 min,Others,Informal Common Spot,1
+R273,Gusa,8.475922,124.681964,Gusa National Highway,Puerto,8.500518,124.750277,Puerto National Highway,16-20 min,Waiting Shed,Designated Stop,0
+R274,Bugo,8.507031,124.753508,Bugo Highway,Agusan,8.488373,124.737995,Agusan Crossing,11-15 min,Road Shoulder,Informal Common Spot,0
+R275,Bugo,8.505379,124.753972,Bugo Public Market,Cogon,8.47746,124.6461,Cogon Market,5-10 min,In Front of Establishment,Anywhere Along Road,1
+R276,Tablon,8.482069,124.728383,Tablon Crossing,Cogon,8.477454,124.645862,Cogon Market,16-20 min,Sidewalk,Designated Stop,1
+R277,Puerto,8.50144,124.749451,Puerto Junction,Puerto,8.501497,124.749455,Puerto Junction,11-15 min,In Front of Establishment,Designated Stop,0
+R278,Gusa,8.474844,124.682977,Gusa Crossing,Puerto,8.500523,124.750541,Puerto National Highway,16-20 min,Sidewalk,Informal Common Spot,0
+R279,Gusa,8.476161,124.68203,Gusa National Highway,Cogon,8.477631,124.646055,Cogon Market,11-15 min,Sidewalk,Anywhere Along Road,1
+R280,Puerto,8.501421,124.749465,Puerto Junction,Cogon,8.477594,124.646071,Cogon Market,11-15 min,Sidewalk,Anywhere Along Road,1
+R281,Gusa,8.476003,124.682102,Gusa National Highway,Cogon,8.477122,124.647169,Cogon Downtown,16-20 min,Road Shoulder,Informal Common Spot,0
+R282,Puerto,8.500459,124.750584,Puerto National Highway,Puerto,8.500495,124.750536,Puerto National Highway,5-10 min,Road Shoulder,Informal Common Spot,0
+R283,Bugo,8.507085,124.753261,Bugo Highway,Bugo,8.507091,124.753542,Bugo Highway,5-10 min,In Front of Establishment,Anywhere Along Road,1
+R284,Bugo,8.505535,124.75411,Bugo Public Market,Cogon,8.477428,124.64593,Cogon Market,11-15 min,Road Shoulder,Informal Common Spot,1
+R285,Gusa,8.475004,124.682933,Gusa Crossing,Cogon,8.477445,124.646035,Cogon Market,5-10 min,In Front of Establishment,Informal Common Spot,0
+R286,Bugo,8.505404,124.753854,Bugo Public Market,Puerto,8.500588,124.750567,Puerto National Highway,5-10 min,Road Shoulder,Designated Stop,0
+R287,Gusa,8.474991,124.682961,Gusa Crossing,Gusa,8.475087,124.682934,Gusa Crossing,11-15 min,Sidewalk,Informal Common Spot,0
+R288,Bugo,8.50554,124.754027,Bugo Public Market,Tablon,8.482104,124.728553,Tablon Crossing,5-10 min,Others,Designated Stop,0
+R289,Bugo,8.506936,124.753648,Bugo Highway,Puerto,8.500493,124.750422,Puerto National Highway,5-10 min,Sidewalk,Designated Stop,0
+R290,Gusa,8.475955,124.681973,Gusa National Highway,Cogon,8.47741,124.646019,Cogon Market,11-15 min,Others,Designated Stop,1
+R291,Bugo,8.507038,124.753536,Bugo Highway,Puerto,8.500564,124.750377,Puerto National Highway,<5 min,In Front of Establishment,Anywhere Along Road,0
+R292,Bugo,8.505501,124.754084,Bugo Public Market,Cogon,8.476469,124.645437,Cogon Terminal,>20 min,Waiting Shed,Anywhere Along Road,1
+R293,Cugman,8.469,124.7061,Cugman Crossing,Agusan,8.488509,124.738011,Agusan Crossing,16-20 min,Others,Designated Stop,0
+R294,Gusa,8.475912,124.682091,Gusa National Highway,Bugo,8.505439,124.753966,Bugo Public Market,16-20 min,Waiting Shed,Designated Stop,0
+R295,Puerto,8.501635,124.749641,Puerto Junction,Tablon,8.481987,124.728523,Tablon Crossing,5-10 min,Sidewalk,Anywhere Along Road,0
+R296,Gusa,8.475983,124.682013,Gusa National Highway,Puerto,8.500529,124.750555,Puerto National Highway,5-10 min,Sidewalk,Informal Common Spot,0
+R297,Bugo,8.50545,124.753954,Bugo Public Market,Cogon,8.477403,124.64606,Cogon Market,<5 min,Sidewalk,Designated Stop,1
+R298,Gusa,8.475875,124.681979,Gusa National Highway,Agusan,8.488575,124.737739,Agusan Crossing,16-20 min,Sidewalk,Anywhere Along Road,0
+R299,Puerto,8.501591,124.749445,Puerto Junction,Cogon,8.477034,124.647071,Cogon Downtown,5-10 min,Under a Tree,Informal Common Spot,1
+R300,Gusa,8.474849,124.682972,Gusa Crossing,Cugman,8.469041,124.705993,Cugman Crossing,11-15 min,Sidewalk,Informal Common Spot,0
+R301,Gusa,8.475283,124.683104,Gusa Crossing,Cogon,8.477592,124.645868,Cogon Market,5-10 min,In Front of Establishment,Informal Common Spot,1
+R302,Agusan,8.489548,124.736869,Agusan Highway,Gusa,8.476138,124.682025,Gusa National Highway,>20 min,Road Shoulder,Anywhere Along Road,0
+R303,Bugo,8.507185,124.753486,Bugo Highway,Cogon,8.476962,124.647097,Cogon Downtown,<5 min,Sidewalk,Designated Stop,1
+R304,Bugo,8.505553,124.75397,Bugo Public Market,Cogon,8.477458,124.645803,Cogon Market,16-20 min,Sidewalk,Designated Stop,1
+R305,Gusa,8.475027,124.682828,Gusa Crossing,Cugman,8.470084,124.704979,Cugman Highway,>20 min,Sidewalk,Designated Stop,0
+R306,Puerto,8.500534,124.75054,Puerto National Highway,Bugo,8.507059,124.753279,Bugo Highway,11-15 min,Sidewalk,Informal Common Spot,1
+R307,Gusa,8.475015,124.682938,Gusa Crossing,Bugo,8.505535,124.754069,Bugo Public Market,11-15 min,Sidewalk,Informal Common Spot,0
+R308,Gusa,8.474775,124.683182,Gusa Crossing,Bugo,8.50712,124.753525,Bugo Highway,>20 min,Others,Designated Stop,1
+R309,Gusa,8.475094,124.683115,Gusa Crossing,Cogon,8.477554,124.645994,Cogon Market,16-20 min,Sidewalk,Informal Common Spot,1
+R310,Gusa,8.475933,124.682023,Gusa National Highway,Cogon,8.477563,124.646029,Cogon Market,<5 min,Waiting Shed,Anywhere Along Road,0
+R311,Gusa,8.475078,124.68293,Gusa Crossing,Cogon,8.47696,124.646988,Cogon Downtown,11-15 min,Under a Tree,Anywhere Along Road,1
+R312,Bugo,8.505656,124.754078,Bugo Public Market,Cogon,8.477407,124.646201,Cogon Market,<5 min,Sidewalk,Anywhere Along Road,0
+R313,Agusan,8.488532,124.737976,Agusan Crossing,Bugo,8.505422,124.753932,Bugo Public Market,<5 min,Under a Tree,Designated Stop,0
+R314,Bugo,8.505549,124.754036,Bugo Public Market,Cogon,8.477453,124.645864,Cogon Market,11-15 min,Sidewalk,Anywhere Along Road,1
+R315,Bugo,8.505345,124.753925,Bugo Public Market,Cogon,8.477439,124.646073,Cogon Market,5-10 min,Road Shoulder,Anywhere Along Road,1
+R316,Bugo,8.505536,124.754066,Bugo Public Market,Cogon,8.477543,124.645936,Cogon Market,5-10 min,Road Shoulder,Anywhere Along Road,1
+R317,Agusan,8.488575,124.738172,Agusan Crossing,Cogon,8.476934,124.647024,Cogon Downtown,5-10 min,Sidewalk,Anywhere Along Road,1
+R318,Cugman,8.468981,124.705967,Cugman Crossing,Cogon,8.476769,124.646938,Cogon Downtown,11-15 min,Road Shoulder,Informal Common Spot,0
+R319,Puerto,8.500324,124.75046,Puerto National Highway,Cogon,8.477075,124.646931,Cogon Downtown,<5 min,Under a Tree,Informal Common Spot,1
+R320,Gusa,8.475042,124.682871,Gusa Crossing,Bugo,8.50561,124.754104,Bugo Public Market,5-10 min,Others,Informal Common Spot,0
+R321,Bugo,8.505262,124.754124,Bugo Public Market,Cogon,8.477126,124.646998,Cogon Downtown,16-20 min,Sidewalk,Informal Common Spot,0
+R322,Bugo,8.505431,124.754059,Bugo Public Market,Cogon,8.477484,124.646098,Cogon Market,16-20 min,In Front of Establishment,Anywhere Along Road,1
+R323,Puerto,8.500456,124.750526,Puerto National Highway,Bugo,8.505511,124.753787,Bugo Public Market,>20 min,Road Shoulder,Designated Stop,1
+R324,Agusan,8.488449,124.738077,Agusan Crossing,Cogon,8.476877,124.647011,Cogon Downtown,<5 min,Sidewalk,Designated Stop,1
+R325,Cugman,8.470183,124.705046,Cugman Highway,Cogon,8.477512,124.646148,Cogon Market,>20 min,Under a Tree,Designated Stop,0
+R326,Puerto,8.50048,124.750603,Puerto National Highway,Puerto,8.500648,124.750605,Puerto National Highway,5-10 min,Others,Anywhere Along Road,0
+R327,Gusa,8.475989,124.682093,Gusa National Highway,Bugo,8.505524,124.754057,Bugo Public Market,16-20 min,In Front of Establishment,Informal Common Spot,0
+R328,Gusa,8.475947,124.681995,Gusa National Highway,Cogon,8.477451,124.645998,Cogon Market,16-20 min,Under a Tree,Designated Stop,1
+R329,Gusa,8.476035,124.681942,Gusa National Highway,Cogon,8.477122,124.646931,Cogon Downtown,5-10 min,In Front of Establishment,Anywhere Along Road,1
+R330,Bugo,8.505585,124.754017,Bugo Public Market,Bugo,8.50558,124.754163,Bugo Public Market,11-15 min,Sidewalk,Designated Stop,0
+R331,Cugman,8.468972,124.705932,Cugman Crossing,Cogon,8.477061,124.6471,Cogon Downtown,>20 min,Under a Tree,Anywhere Along Road,1
+R332,Bugo,8.506985,124.75351,Bugo Highway,Agusan,8.488501,124.737988,Agusan Crossing,16-20 min,Road Shoulder,Anywhere Along Road,0
+R333,Bugo,8.505498,124.754163,Bugo Public Market,Cogon,8.477626,124.645973,Cogon Market,5-10 min,Sidewalk,Anywhere Along Road,1
+R334,Puerto,8.501426,124.749349,Puerto Junction,Cogon,8.477086,124.647065,Cogon Downtown,11-15 min,In Front of Establishment,Anywhere Along Road,1
+R335,Tablon,8.481987,124.728541,Tablon Crossing,Cogon,8.477628,124.645991,Cogon Market,16-20 min,Sidewalk,Informal Common Spot,0
+R336,Puerto,8.50059,124.750624,Puerto National Highway,Gusa,8.476055,124.681848,Gusa National Highway,11-15 min,Road Shoulder,Anywhere Along Road,0
+R337,Cugman,8.469826,124.704742,Cugman Highway,Cogon,8.477422,124.646044,Cogon Market,<5 min,In Front of Establishment,Anywhere Along Road,1
+R338,Cugman,8.470019,124.70511,Cugman Highway,Agusan,8.488612,124.737926,Agusan Crossing,11-15 min,In Front of Establishment,Informal Common Spot,0
+R339,Gusa,8.476017,124.682037,Gusa National Highway,Cogon,8.477491,124.646163,Cogon Market,11-15 min,Sidewalk,Anywhere Along Road,1
+R340,Bugo,8.505409,124.754117,Bugo Public Market,Cogon,8.477519,124.645922,Cogon Market,5-10 min,Sidewalk,Informal Common Spot,1
+R341,Gusa,8.475813,124.681892,Gusa National Highway,Cogon,8.477581,124.645932,Cogon Market,16-20 min,Sidewalk,Anywhere Along Road,1
+R342,Gusa,8.476039,124.682046,Gusa National Highway,Cogon,8.476822,124.646917,Cogon Downtown,5-10 min,Sidewalk,Informal Common Spot,0
+R343,Puerto,8.501462,124.749459,Puerto Junction,Bugo,8.505572,124.754002,Bugo Public Market,11-15 min,Sidewalk,Informal Common Spot,1
+R344,Cugman,8.469106,124.706065,Cugman Crossing,Bugo,8.505308,124.754133,Bugo Public Market,5-10 min,Waiting Shed,Designated Stop,1
+R345,Bugo,8.505425,124.754153,Bugo Public Market,Cogon,8.477444,124.645887,Cogon Market,5-10 min,Road Shoulder,Anywhere Along Road,1
+R346,Puerto,8.500454,124.750471,Puerto National Highway,Tablon,8.481978,124.728571,Tablon Crossing,11-15 min,Road Shoulder,Anywhere Along Road,0
+R347,Gusa,8.476082,124.681998,Gusa National Highway,Gusa,8.475963,124.682045,Gusa National Highway,>20 min,Under a Tree,Anywhere Along Road,0
+R348,Bugo,8.506993,124.753453,Bugo Highway,Puerto,8.501454,124.749471,Puerto Junction,5-10 min,Road Shoulder,Designated Stop,0
+R349,Gusa,8.475996,124.682111,Gusa National Highway,Cogon,8.477632,124.645996,Cogon Market,11-15 min,Waiting Shed,Anywhere Along Road,1
+R350,Puerto,8.500402,124.75047,Puerto National Highway,Cogon,8.477457,124.64588,Cogon Market,5-10 min,Road Shoulder,Anywhere Along Road,1
+R351,Tablon,8.48211,124.728629,Tablon Crossing,Cogon,8.477491,124.645956,Cogon Market,<5 min,Sidewalk,Designated Stop,1
+R352,Bugo,8.50694,124.753491,Bugo Highway,Puerto,8.500493,124.750524,Puerto National Highway,11-15 min,Sidewalk,Informal Common Spot,0
+R353,Puerto,8.500634,124.750502,Puerto National Highway,Gusa,8.476068,124.681885,Gusa National Highway,5-10 min,Sidewalk,Anywhere Along Road,0
+R354,Cugman,8.470056,124.705041,Cugman Highway,Cogon,8.477575,124.645995,Cogon Market,5-10 min,Sidewalk,Designated Stop,1
+R355,Bugo,8.507025,124.753426,Bugo Highway,Puerto,8.501625,124.749585,Puerto Junction,<5 min,Under a Tree,Anywhere Along Road,0
+R356,Bugo,8.50694,124.753575,Bugo Highway,Bugo,8.505529,124.753973,Bugo Public Market,16-20 min,Sidewalk,Anywhere Along Road,0
+R357,Bugo,8.506868,124.753615,Bugo Highway,Agusan,8.488405,124.737871,Agusan Crossing,<5 min,Road Shoulder,Designated Stop,0
+R358,Gusa,8.47505,124.683079,Gusa Crossing,Bugo,8.505544,124.753872,Bugo Public Market,5-10 min,Sidewalk,Anywhere Along Road,1
+R359,Tablon,8.481128,124.729294,Tablon Highway,Cogon,8.477539,124.645979,Cogon Market,5-10 min,Waiting Shed,Anywhere Along Road,1
+R360,Cugman,8.469933,124.704862,Cugman Highway,Cogon,8.476272,124.645401,Cogon Terminal,11-15 min,Sidewalk,Anywhere Along Road,0
+R361,Bugo,8.505464,124.753942,Bugo Public Market,Cogon,8.47696,124.646921,Cogon Downtown,16-20 min,Road Shoulder,Informal Common Spot,1
+R362,Tablon,8.482097,124.728646,Tablon Crossing,Cugman,8.470024,124.704974,Cugman Highway,11-15 min,Sidewalk,Informal Common Spot,0
+R363,Bugo,8.505522,124.754127,Bugo Public Market,Cogon,8.477009,124.647099,Cogon Downtown,16-20 min,Road Shoulder,Informal Common Spot,1
+R364,Bugo,8.505369,124.754002,Bugo Public Market,Cogon,8.477402,124.64606,Cogon Market,<5 min,Sidewalk,Anywhere Along Road,1
+R365,Puerto,8.500439,124.750497,Puerto National Highway,Puerto,8.500581,124.750474,Puerto National Highway,<5 min,Sidewalk,Anywhere Along Road,0
+R366,Agusan,8.489426,124.73693,Agusan Highway,Bugo,8.505491,124.753957,Bugo Public Market,11-15 min,Sidewalk,Anywhere Along Road,0
+R367,Gusa,8.474971,124.683106,Gusa Crossing,Puerto,8.500552,124.750515,Puerto National Highway,5-10 min,In Front of Establishment,Informal Common Spot,0
+R368,Bugo,8.505456,124.753963,Bugo Public Market,Gusa,8.474922,124.683062,Gusa Crossing,16-20 min,In Front of Establishment,Designated Stop,0
+R369,Puerto,8.500654,124.750424,Puerto National Highway,Bugo,8.505514,124.753902,Bugo Public Market,11-15 min,Others,Designated Stop,1
+R370,Agusan,8.488701,124.738063,Agusan Crossing,Tablon,8.481893,124.728511,Tablon Crossing,>20 min,Sidewalk,Anywhere Along Road,0
+R371,Cugman,8.470062,124.705064,Cugman Highway,Bugo,8.505579,124.753928,Bugo Public Market,5-10 min,Others,Informal Common Spot,0
+R372,Bugo,8.507233,124.753446,Bugo Highway,Cogon,8.477062,124.647069,Cogon Downtown,11-15 min,In Front of Establishment,Anywhere Along Road,0
+R373,Gusa,8.47595,124.681795,Gusa National Highway,Bugo,8.505538,124.75412,Bugo Public Market,5-10 min,Sidewalk,Anywhere Along Road,0
+R374,Tablon,8.482103,124.728472,Tablon Crossing,Puerto,8.50048,124.75054,Puerto National Highway,5-10 min,Road Shoulder,Anywhere Along Road,0
+R375,Tablon,8.48087,124.729574,Tablon Highway,Tablon,8.481961,124.72867,Tablon Crossing,16-20 min,Road Shoulder,Designated Stop,0
+R376,Bugo,8.505471,124.753947,Bugo Public Market,Puerto,8.501539,124.749563,Puerto Junction,5-10 min,In Front of Establishment,Anywhere Along Road,0
+R377,Bugo,8.507001,124.753477,Bugo Highway,Tablon,8.482145,124.728609,Tablon Crossing,11-15 min,Under a Tree,Informal Common Spot,0
+R378,Agusan,8.489512,124.737157,Agusan Highway,Agusan,8.488469,124.738129,Agusan Crossing,>20 min,Sidewalk,Informal Common Spot,0
+R379,Gusa,8.474956,124.683105,Gusa Crossing,Cogon,8.477499,124.646125,Cogon Market,16-20 min,Under a Tree,Informal Common Spot,0
+R380,Cugman,8.469909,124.704879,Cugman Highway,Cogon,8.476376,124.645406,Cogon Terminal,>20 min,Sidewalk,Designated Stop,1
+R381,Bugo,8.50705,124.753596,Bugo Highway,Cogon,8.476897,124.64705,Cogon Downtown,5-10 min,Road Shoulder,Anywhere Along Road,1
+R382,Cugman,8.470029,124.705043,Cugman Highway,Cogon,8.477698,124.646066,Cogon Market,11-15 min,Road Shoulder,Anywhere Along Road,1
+R383,Puerto,8.500517,124.750423,Puerto National Highway,Cogon,8.477514,124.646031,Cogon Market,11-15 min,Road Shoulder,Anywhere Along Road,1
+R384,Bugo,8.507018,124.753579,Bugo Highway,Cogon,8.47703,124.647147,Cogon Downtown,11-15 min,Others,Informal Common Spot,0
+R385,Bugo,8.505452,124.753915,Bugo Public Market,Gusa,8.475905,124.681918,Gusa National Highway,>20 min,Road Shoulder,Anywhere Along Road,0

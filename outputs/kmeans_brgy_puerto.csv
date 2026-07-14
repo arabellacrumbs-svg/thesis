@@ -1,0 +1,67 @@
+respondent_id,lat,lon,kmeans_cluster,demand_level,modal_hotspot,alighting_barangay,waiting_time_cat,waiting_location,stopping_pattern
+R006,8.500518,124.750569,0,High Demand,Puerto National Highway,Gusa,5-10 min,In Front of Establishment,Designated Stop
+R007,8.500628,124.750492,0,High Demand,Puerto National Highway,Cogon,16-20 min,Sidewalk,Designated Stop
+R012,8.500286,124.750564,2,Low Demand,Puerto National Highway,Gusa,5-10 min,Under a Tree,Informal Common Spot
+R015,8.501638,124.749564,1,Moderate Demand,Puerto Junction,Puerto,11-15 min,Sidewalk,Informal Common Spot
+R016,8.500527,124.750609,0,High Demand,Puerto National Highway,Puerto,>20 min,Road Shoulder,Anywhere Along Road
+R045,8.501505,124.749631,1,Moderate Demand,Puerto Junction,Cogon,<5 min,Road Shoulder,Designated Stop
+R048,8.501496,124.749568,1,Moderate Demand,Puerto Junction,Bugo,11-15 min,Sidewalk,Designated Stop
+R050,8.500525,124.750591,0,High Demand,Puerto National Highway,Gusa,16-20 min,In Front of Establishment,Anywhere Along Road
+R059,8.500422,124.750538,2,Low Demand,Puerto National Highway,Cogon,16-20 min,Sidewalk,Informal Common Spot
+R061,8.500492,124.750429,0,High Demand,Puerto National Highway,Cugman,16-20 min,Sidewalk,Anywhere Along Road
+R064,8.501511,124.749462,1,Moderate Demand,Puerto Junction,Cogon,11-15 min,Road Shoulder,Anywhere Along Road
+R068,8.501582,124.749416,1,Moderate Demand,Puerto Junction,Cogon,<5 min,Under a Tree,Anywhere Along Road
+R069,8.500613,124.750557,0,High Demand,Puerto National Highway,Cogon,5-10 min,Others,Designated Stop
+R072,8.501438,124.749458,1,Moderate Demand,Puerto Junction,Cogon,5-10 min,Road Shoulder,Informal Common Spot
+R074,8.500499,124.750383,0,High Demand,Puerto National Highway,Cogon,11-15 min,Under a Tree,Anywhere Along Road
+R103,8.500585,124.750561,0,High Demand,Puerto National Highway,Cogon,5-10 min,Road Shoulder,Informal Common Spot
+R105,8.501433,124.74939,1,Moderate Demand,Puerto Junction,Bugo,5-10 min,Sidewalk,Anywhere Along Road
+R110,8.500459,124.750404,2,Low Demand,Puerto National Highway,Gusa,11-15 min,Sidewalk,Anywhere Along Road
+R113,8.500578,124.750553,0,High Demand,Puerto National Highway,Puerto,>20 min,Sidewalk,Informal Common Spot
+R115,8.500424,124.750371,2,Low Demand,Puerto National Highway,Cugman,11-15 min,Sidewalk,Anywhere Along Road
+R118,8.500495,124.750508,0,High Demand,Puerto National Highway,Cugman,5-10 min,Road Shoulder,Designated Stop
+R121,8.500472,124.750633,2,Low Demand,Puerto National Highway,Cogon,5-10 min,Road Shoulder,Designated Stop
+R129,8.501476,124.749568,1,Moderate Demand,Puerto Junction,Cogon,5-10 min,Sidewalk,Informal Common Spot
+R135,8.500386,124.750612,2,Low Demand,Puerto National Highway,Tablon,11-15 min,Road Shoulder,Anywhere Along Road
+R143,8.500529,124.750505,0,High Demand,Puerto National Highway,Cogon,5-10 min,Waiting Shed,Informal Common Spot
+R146,8.500527,124.750404,0,High Demand,Puerto National Highway,Cogon,<5 min,Road Shoulder,Designated Stop
+R147,8.50045,124.750456,2,Low Demand,Puerto National Highway,Cogon,>20 min,Sidewalk,Anywhere Along Road
+R153,8.501296,124.749503,1,Moderate Demand,Puerto Junction,Cogon,<5 min,Road Shoulder,Informal Common Spot
+R154,8.500616,124.750564,0,High Demand,Puerto National Highway,Cogon,11-15 min,Sidewalk,Designated Stop
+R155,8.500572,124.750499,0,High Demand,Puerto National Highway,Tablon,11-15 min,Sidewalk,Informal Common Spot
+R173,8.50133,124.74946,1,Moderate Demand,Puerto Junction,Cogon,11-15 min,Sidewalk,Anywhere Along Road
+R175,8.500523,124.750421,0,High Demand,Puerto National Highway,Gusa,11-15 min,Road Shoulder,Designated Stop
+R194,8.500501,124.75057,0,High Demand,Puerto National Highway,Cogon,5-10 min,In Front of Establishment,Designated Stop
+R197,8.501371,124.749469,1,Moderate Demand,Puerto Junction,Cogon,16-20 min,Sidewalk,Anywhere Along Road
+R207,8.50146,124.749661,1,Moderate Demand,Puerto Junction,Puerto,11-15 min,Sidewalk,Anywhere Along Road
+R209,8.501711,124.749463,1,Moderate Demand,Puerto Junction,Puerto,5-10 min,Sidewalk,Anywhere Along Road
+R218,8.501598,124.749444,1,Moderate Demand,Puerto Junction,Bugo,16-20 min,Under a Tree,Anywhere Along Road
+R219,8.500536,124.750445,0,High Demand,Puerto National Highway,Puerto,5-10 min,Road Shoulder,Anywhere Along Road
+R224,8.500525,124.750386,0,High Demand,Puerto National Highway,Cugman,<5 min,Sidewalk,Informal Common Spot
+R227,8.500564,124.750451,0,High Demand,Puerto National Highway,Puerto,11-15 min,Road Shoulder,Informal Common Spot
+R231,8.500455,124.750555,2,Low Demand,Puerto National Highway,Cogon,11-15 min,Road Shoulder,Designated Stop
+R242,8.500569,124.750505,0,High Demand,Puerto National Highway,Cogon,11-15 min,Road Shoulder,Anywhere Along Road
+R244,8.500441,124.750517,2,Low Demand,Puerto National Highway,Cogon,11-15 min,Sidewalk,Anywhere Along Road
+R248,8.500432,124.750519,2,Low Demand,Puerto National Highway,Cugman,11-15 min,Road Shoulder,Anywhere Along Road
+R249,8.50057,124.750397,0,High Demand,Puerto National Highway,Tablon,11-15 min,Sidewalk,Designated Stop
+R260,8.501437,124.749467,1,Moderate Demand,Puerto Junction,Cogon,16-20 min,Sidewalk,Anywhere Along Road
+R262,8.500603,124.750543,0,High Demand,Puerto National Highway,Cogon,5-10 min,In Front of Establishment,Anywhere Along Road
+R270,8.500576,124.750482,0,High Demand,Puerto National Highway,Cogon,11-15 min,Road Shoulder,Anywhere Along Road
+R277,8.50144,124.749451,1,Moderate Demand,Puerto Junction,Puerto,11-15 min,In Front of Establishment,Designated Stop
+R280,8.501421,124.749465,1,Moderate Demand,Puerto Junction,Cogon,11-15 min,Sidewalk,Anywhere Along Road
+R282,8.500459,124.750584,2,Low Demand,Puerto National Highway,Puerto,5-10 min,Road Shoulder,Informal Common Spot
+R295,8.501635,124.749641,1,Moderate Demand,Puerto Junction,Tablon,5-10 min,Sidewalk,Anywhere Along Road
+R299,8.501591,124.749445,1,Moderate Demand,Puerto Junction,Cogon,5-10 min,Under a Tree,Informal Common Spot
+R306,8.500534,124.75054,0,High Demand,Puerto National Highway,Bugo,11-15 min,Sidewalk,Informal Common Spot
+R319,8.500324,124.75046,2,Low Demand,Puerto National Highway,Cogon,<5 min,Under a Tree,Informal Common Spot
+R323,8.500456,124.750526,2,Low Demand,Puerto National Highway,Bugo,>20 min,Road Shoulder,Designated Stop
+R326,8.50048,124.750603,2,Low Demand,Puerto National Highway,Puerto,5-10 min,Others,Anywhere Along Road
+R334,8.501426,124.749349,1,Moderate Demand,Puerto Junction,Cogon,11-15 min,In Front of Establishment,Anywhere Along Road
+R336,8.50059,124.750624,0,High Demand,Puerto National Highway,Gusa,11-15 min,Road Shoulder,Anywhere Along Road
+R343,8.501462,124.749459,1,Moderate Demand,Puerto Junction,Bugo,11-15 min,Sidewalk,Informal Common Spot
+R346,8.500454,124.750471,2,Low Demand,Puerto National Highway,Tablon,11-15 min,Road Shoulder,Anywhere Along Road
+R350,8.500402,124.75047,2,Low Demand,Puerto National Highway,Cogon,5-10 min,Road Shoulder,Anywhere Along Road
+R353,8.500634,124.750502,0,High Demand,Puerto National Highway,Gusa,5-10 min,Sidewalk,Anywhere Along Road
+R365,8.500439,124.750497,2,Low Demand,Puerto National Highway,Puerto,<5 min,Sidewalk,Anywhere Along Road
+R369,8.500654,124.750424,0,High Demand,Puerto National Highway,Bugo,11-15 min,Others,Designated Stop
+R383,8.500517,124.750423,0,High Demand,Puerto National Highway,Cogon,11-15 min,Road Shoulder,Anywhere Along Road

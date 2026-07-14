@@ -1,0 +1,116 @@
+respondent_id,lat,lon,kmeans_cluster,demand_level,modal_hotspot,alighting_barangay,waiting_time_cat,waiting_location,stopping_pattern
+R002,8.506979,124.753499,1,High Demand,Bugo Highway,Cogon,5-10 min,Road Shoulder,Informal Common Spot
+R008,8.507052,124.753709,1,High Demand,Bugo Highway,Gusa,5-10 min,Under a Tree,Anywhere Along Road
+R009,8.507002,124.753616,1,High Demand,Bugo Highway,Cogon,5-10 min,Sidewalk,Informal Common Spot
+R010,8.505541,124.754013,2,Moderate Demand,Bugo Public Market,Bugo,<5 min,Sidewalk,Informal Common Spot
+R013,8.506921,124.753405,1,High Demand,Bugo Highway,Cogon,16-20 min,Road Shoulder,Designated Stop
+R014,8.505667,124.75392,2,Moderate Demand,Bugo Public Market,Tablon,16-20 min,Under a Tree,Designated Stop
+R020,8.505433,124.754047,0,Low Demand,Bugo Public Market,Cugman,5-10 min,Road Shoulder,Anywhere Along Road
+R021,8.507086,124.753455,1,High Demand,Bugo Highway,Cugman,>20 min,In Front of Establishment,Informal Common Spot
+R025,8.506888,124.753424,1,High Demand,Bugo Highway,Cogon,5-10 min,Road Shoulder,Anywhere Along Road
+R031,8.507155,124.753503,1,High Demand,Bugo Highway,Bugo,11-15 min,Road Shoulder,Designated Stop
+R034,8.505663,124.753923,2,Moderate Demand,Bugo Public Market,Tablon,<5 min,In Front of Establishment,Anywhere Along Road
+R036,8.507041,124.753409,1,High Demand,Bugo Highway,Cogon,<5 min,Sidewalk,Anywhere Along Road
+R039,8.506999,124.753495,1,High Demand,Bugo Highway,Gusa,11-15 min,Road Shoulder,Anywhere Along Road
+R040,8.505459,124.753931,2,Moderate Demand,Bugo Public Market,Cogon,5-10 min,Sidewalk,Anywhere Along Road
+R041,8.507066,124.753567,1,High Demand,Bugo Highway,Gusa,11-15 min,Sidewalk,Anywhere Along Road
+R042,8.505478,124.754093,0,Low Demand,Bugo Public Market,Cogon,5-10 min,Sidewalk,Anywhere Along Road
+R044,8.507067,124.75351,1,High Demand,Bugo Highway,Cogon,5-10 min,Road Shoulder,Designated Stop
+R049,8.506952,124.753602,1,High Demand,Bugo Highway,Cogon,11-15 min,Sidewalk,Anywhere Along Road
+R051,8.50541,124.754121,0,Low Demand,Bugo Public Market,Cugman,11-15 min,Road Shoulder,Anywhere Along Road
+R052,8.507018,124.753595,1,High Demand,Bugo Highway,Cogon,5-10 min,Sidewalk,Anywhere Along Road
+R054,8.506929,124.753635,1,High Demand,Bugo Highway,Cogon,5-10 min,Sidewalk,Designated Stop
+R056,8.505594,124.754095,0,Low Demand,Bugo Public Market,Cogon,11-15 min,Sidewalk,Anywhere Along Road
+R057,8.505598,124.753789,2,Moderate Demand,Bugo Public Market,Cogon,11-15 min,Others,Anywhere Along Road
+R058,8.505454,124.753882,2,Moderate Demand,Bugo Public Market,Cogon,11-15 min,Sidewalk,Informal Common Spot
+R066,8.507022,124.753601,1,High Demand,Bugo Highway,Puerto,5-10 min,Sidewalk,Designated Stop
+R067,8.507007,124.753514,1,High Demand,Bugo Highway,Cogon,11-15 min,Road Shoulder,Designated Stop
+R075,8.505593,124.754024,2,Moderate Demand,Bugo Public Market,Cogon,>20 min,In Front of Establishment,Anywhere Along Road
+R081,8.505699,124.75399,2,Moderate Demand,Bugo Public Market,Cogon,11-15 min,In Front of Establishment,Anywhere Along Road
+R084,8.50542,124.75398,2,Moderate Demand,Bugo Public Market,Cogon,5-10 min,Sidewalk,Anywhere Along Road
+R085,8.507004,124.753473,1,High Demand,Bugo Highway,Puerto,5-10 min,Road Shoulder,Informal Common Spot
+R090,8.505521,124.753928,2,Moderate Demand,Bugo Public Market,Cogon,11-15 min,In Front of Establishment,Designated Stop
+R095,8.507037,124.753383,1,High Demand,Bugo Highway,Cogon,11-15 min,In Front of Establishment,Anywhere Along Road
+R097,8.507076,124.753583,1,High Demand,Bugo Highway,Bugo,16-20 min,Sidewalk,Informal Common Spot
+R101,8.505588,124.753824,2,Moderate Demand,Bugo Public Market,Cogon,>20 min,Sidewalk,Anywhere Along Road
+R104,8.505456,124.753896,2,Moderate Demand,Bugo Public Market,Tablon,5-10 min,Sidewalk,Informal Common Spot
+R107,8.505547,124.75405,0,Low Demand,Bugo Public Market,Cogon,<5 min,In Front of Establishment,Designated Stop
+R108,8.50714,124.753548,1,High Demand,Bugo Highway,Cogon,16-20 min,Road Shoulder,Designated Stop
+R114,8.505621,124.754084,0,Low Demand,Bugo Public Market,Tablon,11-15 min,Sidewalk,Designated Stop
+R116,8.506965,124.753447,1,High Demand,Bugo Highway,Cogon,11-15 min,Road Shoulder,Informal Common Spot
+R120,8.505401,124.753909,2,Moderate Demand,Bugo Public Market,Cogon,5-10 min,Sidewalk,Informal Common Spot
+R122,8.507045,124.753552,1,High Demand,Bugo Highway,Cogon,5-10 min,Sidewalk,Informal Common Spot
+R125,8.505538,124.753944,2,Moderate Demand,Bugo Public Market,Bugo,5-10 min,Sidewalk,Anywhere Along Road
+R127,8.50554,124.754116,0,Low Demand,Bugo Public Market,Puerto,16-20 min,Road Shoulder,Informal Common Spot
+R132,8.507001,124.753597,1,High Demand,Bugo Highway,Cogon,5-10 min,Sidewalk,Anywhere Along Road
+R137,8.505523,124.753966,2,Moderate Demand,Bugo Public Market,Agusan,<5 min,Sidewalk,Informal Common Spot
+R138,8.505462,124.754037,0,Low Demand,Bugo Public Market,Tablon,5-10 min,Road Shoulder,Anywhere Along Road
+R142,8.507006,124.753428,1,High Demand,Bugo Highway,Gusa,>20 min,Sidewalk,Anywhere Along Road
+R145,8.505494,124.754171,0,Low Demand,Bugo Public Market,Cogon,<5 min,Sidewalk,Anywhere Along Road
+R151,8.507202,124.753555,1,High Demand,Bugo Highway,Cogon,5-10 min,In Front of Establishment,Designated Stop
+R158,8.507111,124.753596,1,High Demand,Bugo Highway,Cogon,5-10 min,Sidewalk,Anywhere Along Road
+R159,8.507091,124.753448,1,High Demand,Bugo Highway,Cogon,16-20 min,Road Shoulder,Designated Stop
+R166,8.505549,124.753981,2,Moderate Demand,Bugo Public Market,Bugo,16-20 min,Road Shoulder,Informal Common Spot
+R167,8.505426,124.753908,2,Moderate Demand,Bugo Public Market,Bugo,11-15 min,Road Shoulder,Anywhere Along Road
+R169,8.506939,124.753452,1,High Demand,Bugo Highway,Puerto,>20 min,Sidewalk,Anywhere Along Road
+R172,8.505601,124.753964,2,Moderate Demand,Bugo Public Market,Bugo,<5 min,Road Shoulder,Informal Common Spot
+R174,8.506967,124.753488,1,High Demand,Bugo Highway,Cogon,>20 min,Road Shoulder,Designated Stop
+R176,8.505449,124.754088,0,Low Demand,Bugo Public Market,Cogon,5-10 min,Road Shoulder,Designated Stop
+R180,8.50549,124.753979,2,Moderate Demand,Bugo Public Market,Bugo,5-10 min,Sidewalk,Anywhere Along Road
+R186,8.50694,124.753508,1,High Demand,Bugo Highway,Cogon,5-10 min,Road Shoulder,Anywhere Along Road
+R191,8.505573,124.753992,2,Moderate Demand,Bugo Public Market,Agusan,>20 min,Under a Tree,Anywhere Along Road
+R192,8.507041,124.753535,1,High Demand,Bugo Highway,Cogon,11-15 min,In Front of Establishment,Anywhere Along Road
+R193,8.507119,124.753349,1,High Demand,Bugo Highway,Tablon,11-15 min,Sidewalk,Designated Stop
+R198,8.50547,124.753987,2,Moderate Demand,Bugo Public Market,Cogon,5-10 min,Sidewalk,Anywhere Along Road
+R199,8.506966,124.75348,1,High Demand,Bugo Highway,Cogon,11-15 min,Road Shoulder,Designated Stop
+R205,8.505534,124.753913,2,Moderate Demand,Bugo Public Market,Puerto,5-10 min,Sidewalk,Designated Stop
+R208,8.505466,124.753946,2,Moderate Demand,Bugo Public Market,Cogon,16-20 min,Under a Tree,Anywhere Along Road
+R211,8.505503,124.754061,0,Low Demand,Bugo Public Market,Bugo,<5 min,In Front of Establishment,Designated Stop
+R216,8.507109,124.753453,1,High Demand,Bugo Highway,Cogon,5-10 min,In Front of Establishment,Anywhere Along Road
+R228,8.505341,124.754066,0,Low Demand,Bugo Public Market,Cogon,5-10 min,In Front of Establishment,Designated Stop
+R232,8.505435,124.753954,2,Moderate Demand,Bugo Public Market,Cogon,<5 min,Under a Tree,Informal Common Spot
+R234,8.505499,124.754068,0,Low Demand,Bugo Public Market,Bugo,<5 min,Sidewalk,Informal Common Spot
+R236,8.506909,124.753714,1,High Demand,Bugo Highway,Bugo,11-15 min,Road Shoulder,Designated Stop
+R239,8.506923,124.75338,1,High Demand,Bugo Highway,Agusan,11-15 min,Road Shoulder,Anywhere Along Road
+R245,8.505576,124.753894,2,Moderate Demand,Bugo Public Market,Puerto,5-10 min,Sidewalk,Designated Stop
+R250,8.50548,124.754054,0,Low Demand,Bugo Public Market,Puerto,5-10 min,Sidewalk,Designated Stop
+R252,8.505492,124.75401,2,Moderate Demand,Bugo Public Market,Cogon,11-15 min,Road Shoulder,Anywhere Along Road
+R265,8.506961,124.753444,1,High Demand,Bugo Highway,Cogon,5-10 min,Sidewalk,Anywhere Along Road
+R274,8.507031,124.753508,1,High Demand,Bugo Highway,Agusan,11-15 min,Road Shoulder,Informal Common Spot
+R275,8.505379,124.753972,2,Moderate Demand,Bugo Public Market,Cogon,5-10 min,In Front of Establishment,Anywhere Along Road
+R283,8.507085,124.753261,1,High Demand,Bugo Highway,Bugo,5-10 min,In Front of Establishment,Anywhere Along Road
+R284,8.505535,124.75411,0,Low Demand,Bugo Public Market,Cogon,11-15 min,Road Shoulder,Informal Common Spot
+R286,8.505404,124.753854,2,Moderate Demand,Bugo Public Market,Puerto,5-10 min,Road Shoulder,Designated Stop
+R288,8.50554,124.754027,0,Low Demand,Bugo Public Market,Tablon,5-10 min,Others,Designated Stop
+R289,8.506936,124.753648,1,High Demand,Bugo Highway,Puerto,5-10 min,Sidewalk,Designated Stop
+R291,8.507038,124.753536,1,High Demand,Bugo Highway,Puerto,<5 min,In Front of Establishment,Anywhere Along Road
+R292,8.505501,124.754084,0,Low Demand,Bugo Public Market,Cogon,>20 min,Waiting Shed,Anywhere Along Road
+R297,8.50545,124.753954,2,Moderate Demand,Bugo Public Market,Cogon,<5 min,Sidewalk,Designated Stop
+R303,8.507185,124.753486,1,High Demand,Bugo Highway,Cogon,<5 min,Sidewalk,Designated Stop
+R304,8.505553,124.75397,2,Moderate Demand,Bugo Public Market,Cogon,16-20 min,Sidewalk,Designated Stop
+R312,8.505656,124.754078,0,Low Demand,Bugo Public Market,Cogon,<5 min,Sidewalk,Anywhere Along Road
+R314,8.505549,124.754036,0,Low Demand,Bugo Public Market,Cogon,11-15 min,Sidewalk,Anywhere Along Road
+R315,8.505345,124.753925,2,Moderate Demand,Bugo Public Market,Cogon,5-10 min,Road Shoulder,Anywhere Along Road
+R316,8.505536,124.754066,0,Low Demand,Bugo Public Market,Cogon,5-10 min,Road Shoulder,Anywhere Along Road
+R321,8.505262,124.754124,0,Low Demand,Bugo Public Market,Cogon,16-20 min,Sidewalk,Informal Common Spot
+R322,8.505431,124.754059,0,Low Demand,Bugo Public Market,Cogon,16-20 min,In Front of Establishment,Anywhere Along Road
+R330,8.505585,124.754017,2,Moderate Demand,Bugo Public Market,Bugo,11-15 min,Sidewalk,Designated Stop
+R332,8.506985,124.75351,1,High Demand,Bugo Highway,Agusan,16-20 min,Road Shoulder,Anywhere Along Road
+R333,8.505498,124.754163,0,Low Demand,Bugo Public Market,Cogon,5-10 min,Sidewalk,Anywhere Along Road
+R340,8.505409,124.754117,0,Low Demand,Bugo Public Market,Cogon,5-10 min,Sidewalk,Informal Common Spot
+R345,8.505425,124.754153,0,Low Demand,Bugo Public Market,Cogon,5-10 min,Road Shoulder,Anywhere Along Road
+R348,8.506993,124.753453,1,High Demand,Bugo Highway,Puerto,5-10 min,Road Shoulder,Designated Stop
+R352,8.50694,124.753491,1,High Demand,Bugo Highway,Puerto,11-15 min,Sidewalk,Informal Common Spot
+R355,8.507025,124.753426,1,High Demand,Bugo Highway,Puerto,<5 min,Under a Tree,Anywhere Along Road
+R356,8.50694,124.753575,1,High Demand,Bugo Highway,Bugo,16-20 min,Sidewalk,Anywhere Along Road
+R357,8.506868,124.753615,1,High Demand,Bugo Highway,Agusan,<5 min,Road Shoulder,Designated Stop
+R361,8.505464,124.753942,2,Moderate Demand,Bugo Public Market,Cogon,16-20 min,Road Shoulder,Informal Common Spot
+R363,8.505522,124.754127,0,Low Demand,Bugo Public Market,Cogon,16-20 min,Road Shoulder,Informal Common Spot
+R364,8.505369,124.754002,0,Low Demand,Bugo Public Market,Cogon,<5 min,Sidewalk,Anywhere Along Road
+R368,8.505456,124.753963,2,Moderate Demand,Bugo Public Market,Gusa,16-20 min,In Front of Establishment,Designated Stop
+R372,8.507233,124.753446,1,High Demand,Bugo Highway,Cogon,11-15 min,In Front of Establishment,Anywhere Along Road
+R376,8.505471,124.753947,2,Moderate Demand,Bugo Public Market,Puerto,5-10 min,In Front of Establishment,Anywhere Along Road
+R377,8.507001,124.753477,1,High Demand,Bugo Highway,Tablon,11-15 min,Under a Tree,Informal Common Spot
+R381,8.50705,124.753596,1,High Demand,Bugo Highway,Cogon,5-10 min,Road Shoulder,Anywhere Along Road
+R384,8.507018,124.753579,1,High Demand,Bugo Highway,Cogon,11-15 min,Others,Informal Common Spot
+R385,8.505452,124.753915,2,Moderate Demand,Bugo Public Market,Gusa,>20 min,Road Shoulder,Anywhere Along Road

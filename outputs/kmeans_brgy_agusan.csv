@@ -1,0 +1,24 @@
+respondent_id,lat,lon,kmeans_cluster,demand_level,modal_hotspot,alighting_barangay,waiting_time_cat,waiting_location,stopping_pattern
+R017,8.488547,124.738044,0,Moderate Demand,Agusan Crossing,Cogon,5-10 min,Sidewalk,Anywhere Along Road
+R024,8.489356,124.736961,1,High Demand,Agusan Highway,Cogon,16-20 min,Sidewalk,Informal Common Spot
+R026,8.489292,124.73697,1,High Demand,Agusan Highway,Cogon,5-10 min,Road Shoulder,Anywhere Along Road
+R046,8.488565,124.738021,0,Moderate Demand,Agusan Crossing,Cugman,11-15 min,Others,Anywhere Along Road
+R100,8.489594,124.736808,2,Low Demand,Agusan Highway,Cogon,16-20 min,Road Shoulder,Informal Common Spot
+R124,8.489476,124.736909,2,Low Demand,Agusan Highway,Cogon,16-20 min,Road Shoulder,Informal Common Spot
+R126,8.488581,124.738071,0,Moderate Demand,Agusan Crossing,Gusa,16-20 min,In Front of Establishment,Designated Stop
+R157,8.489393,124.736917,1,High Demand,Agusan Highway,Bugo,11-15 min,Road Shoulder,Anywhere Along Road
+R162,8.488471,124.737975,0,Moderate Demand,Agusan Crossing,Cogon,11-15 min,In Front of Establishment,Informal Common Spot
+R170,8.489458,124.737092,1,High Demand,Agusan Highway,Cogon,5-10 min,Sidewalk,Anywhere Along Road
+R182,8.488478,124.738051,0,Moderate Demand,Agusan Crossing,Gusa,16-20 min,In Front of Establishment,Anywhere Along Road
+R233,8.489543,124.737077,1,High Demand,Agusan Highway,Cogon,<5 min,Road Shoulder,Anywhere Along Road
+R243,8.489417,124.737,1,High Demand,Agusan Highway,Cogon,>20 min,Sidewalk,Informal Common Spot
+R246,8.489563,124.736983,2,Low Demand,Agusan Highway,Cogon,5-10 min,Waiting Shed,Anywhere Along Road
+R247,8.489392,124.73709,1,High Demand,Agusan Highway,Cogon,<5 min,Sidewalk,Informal Common Spot
+R263,8.489418,124.737008,1,High Demand,Agusan Highway,Puerto,16-20 min,Road Shoulder,Designated Stop
+R302,8.489548,124.736869,2,Low Demand,Agusan Highway,Gusa,>20 min,Road Shoulder,Anywhere Along Road
+R313,8.488532,124.737976,0,Moderate Demand,Agusan Crossing,Bugo,<5 min,Under a Tree,Designated Stop
+R317,8.488575,124.738172,0,Moderate Demand,Agusan Crossing,Cogon,5-10 min,Sidewalk,Anywhere Along Road
+R324,8.488449,124.738077,0,Moderate Demand,Agusan Crossing,Cogon,<5 min,Sidewalk,Designated Stop
+R366,8.489426,124.73693,1,High Demand,Agusan Highway,Bugo,11-15 min,Sidewalk,Anywhere Along Road
+R370,8.488701,124.738063,0,Moderate Demand,Agusan Crossing,Tablon,>20 min,Sidewalk,Anywhere Along Road
+R378,8.489512,124.737157,1,High Demand,Agusan Highway,Agusan,>20 min,Sidewalk,Informal Common Spot

@@ -1,0 +1,111 @@
+respondent_id,lat,lon,kmeans_cluster,demand_level,modal_hotspot,alighting_barangay,waiting_time_cat,waiting_location,stopping_pattern
+R003,8.475974,124.681922,1,High Demand,Gusa National Highway,Cogon,<5 min,Sidewalk,Informal Common Spot
+R004,8.475986,124.681889,1,High Demand,Gusa National Highway,Bugo,16-20 min,Road Shoulder,Informal Common Spot
+R011,8.475009,124.68299,2,Moderate Demand,Gusa Crossing,Puerto,5-10 min,Road Shoulder,Designated Stop
+R018,8.475022,124.682973,2,Moderate Demand,Gusa Crossing,Cogon,5-10 min,Under a Tree,Anywhere Along Road
+R019,8.476021,124.681945,1,High Demand,Gusa National Highway,Cogon,5-10 min,In Front of Establishment,Anywhere Along Road
+R022,8.475032,124.682956,2,Moderate Demand,Gusa Crossing,Cogon,<5 min,Sidewalk,Informal Common Spot
+R023,8.475909,124.682026,1,High Demand,Gusa National Highway,Bugo,11-15 min,Sidewalk,Anywhere Along Road
+R028,8.476063,124.681941,1,High Demand,Gusa National Highway,Cogon,11-15 min,Others,Anywhere Along Road
+R029,8.475959,124.682126,1,High Demand,Gusa National Highway,Gusa,<5 min,Road Shoulder,Anywhere Along Road
+R032,8.476093,124.681936,1,High Demand,Gusa National Highway,Tablon,5-10 min,Sidewalk,Informal Common Spot
+R033,8.476123,124.681852,1,High Demand,Gusa National Highway,Cogon,16-20 min,Under a Tree,Anywhere Along Road
+R035,8.475058,124.68283,2,Moderate Demand,Gusa Crossing,Tablon,<5 min,Under a Tree,Informal Common Spot
+R037,8.474977,124.683127,0,Low Demand,Gusa Crossing,Cogon,>20 min,Sidewalk,Informal Common Spot
+R038,8.474996,124.683043,0,Low Demand,Gusa Crossing,Cogon,11-15 min,Road Shoulder,Anywhere Along Road
+R043,8.476018,124.682033,1,High Demand,Gusa National Highway,Cogon,16-20 min,In Front of Establishment,Anywhere Along Road
+R047,8.475096,124.682922,2,Moderate Demand,Gusa Crossing,Puerto,11-15 min,Under a Tree,Informal Common Spot
+R055,8.474923,124.683106,0,Low Demand,Gusa Crossing,Agusan,>20 min,Sidewalk,Designated Stop
+R060,8.475974,124.681907,1,High Demand,Gusa National Highway,Puerto,16-20 min,Road Shoulder,Anywhere Along Road
+R076,8.474967,124.682937,2,Moderate Demand,Gusa Crossing,Cogon,11-15 min,Under a Tree,Designated Stop
+R078,8.475044,124.682895,2,Moderate Demand,Gusa Crossing,Cogon,>20 min,Road Shoulder,Anywhere Along Road
+R080,8.474871,124.683053,0,Low Demand,Gusa Crossing,Cogon,5-10 min,Sidewalk,Anywhere Along Road
+R082,8.476067,124.681992,1,High Demand,Gusa National Highway,Cogon,11-15 min,Under a Tree,Informal Common Spot
+R083,8.475819,124.682107,1,High Demand,Gusa National Highway,Cogon,5-10 min,Road Shoulder,Informal Common Spot
+R086,8.474975,124.683001,0,Low Demand,Gusa Crossing,Cogon,16-20 min,Road Shoulder,Anywhere Along Road
+R088,8.476056,124.681932,1,High Demand,Gusa National Highway,Cogon,16-20 min,Waiting Shed,Designated Stop
+R089,8.475149,124.682998,2,Moderate Demand,Gusa Crossing,Cogon,16-20 min,Road Shoulder,Anywhere Along Road
+R091,8.475951,124.681954,1,High Demand,Gusa National Highway,Gusa,5-10 min,Sidewalk,Designated Stop
+R092,8.47611,124.681921,1,High Demand,Gusa National Highway,Cogon,11-15 min,Road Shoulder,Anywhere Along Road
+R093,8.476028,124.682084,1,High Demand,Gusa National Highway,Cogon,11-15 min,Others,Anywhere Along Road
+R098,8.475998,124.681918,1,High Demand,Gusa National Highway,Cogon,>20 min,Under a Tree,Informal Common Spot
+R099,8.475029,124.682919,2,Moderate Demand,Gusa Crossing,Agusan,5-10 min,Road Shoulder,Anywhere Along Road
+R102,8.476065,124.682075,1,High Demand,Gusa National Highway,Puerto,5-10 min,In Front of Establishment,Designated Stop
+R109,8.475152,124.683042,2,Moderate Demand,Gusa Crossing,Cugman,>20 min,Sidewalk,Anywhere Along Road
+R112,8.47591,124.681875,1,High Demand,Gusa National Highway,Puerto,5-10 min,Sidewalk,Anywhere Along Road
+R117,8.475052,124.682887,2,Moderate Demand,Gusa Crossing,Bugo,16-20 min,Sidewalk,Designated Stop
+R123,8.476012,124.681967,1,High Demand,Gusa National Highway,Cugman,>20 min,Under a Tree,Anywhere Along Road
+R130,8.476076,124.681902,1,High Demand,Gusa National Highway,Cogon,16-20 min,Under a Tree,Anywhere Along Road
+R134,8.47594,124.682103,1,High Demand,Gusa National Highway,Cogon,11-15 min,Sidewalk,Anywhere Along Road
+R140,8.475853,124.682161,1,High Demand,Gusa National Highway,Tablon,5-10 min,Road Shoulder,Informal Common Spot
+R141,8.476016,124.681953,1,High Demand,Gusa National Highway,Cogon,11-15 min,Sidewalk,Informal Common Spot
+R148,8.474916,124.68297,0,Low Demand,Gusa Crossing,Cogon,5-10 min,Waiting Shed,Informal Common Spot
+R150,8.475865,124.682031,1,High Demand,Gusa National Highway,Bugo,16-20 min,Road Shoulder,Anywhere Along Road
+R152,8.476054,124.68194,1,High Demand,Gusa National Highway,Cogon,11-15 min,Under a Tree,Anywhere Along Road
+R160,8.475965,124.682075,1,High Demand,Gusa National Highway,Cogon,16-20 min,In Front of Establishment,Informal Common Spot
+R161,8.475954,124.681997,1,High Demand,Gusa National Highway,Cogon,<5 min,Road Shoulder,Anywhere Along Road
+R163,8.474938,124.682923,0,Low Demand,Gusa Crossing,Puerto,16-20 min,Road Shoulder,Designated Stop
+R164,8.47482,124.683081,0,Low Demand,Gusa Crossing,Cogon,5-10 min,Sidewalk,Informal Common Spot
+R165,8.475137,124.682893,2,Moderate Demand,Gusa Crossing,Cogon,5-10 min,Sidewalk,Anywhere Along Road
+R168,8.474838,124.683017,0,Low Demand,Gusa Crossing,Puerto,<5 min,Road Shoulder,Anywhere Along Road
+R171,8.476043,124.682068,1,High Demand,Gusa National Highway,Cogon,11-15 min,Road Shoulder,Anywhere Along Road
+R179,8.476019,124.681883,1,High Demand,Gusa National Highway,Puerto,11-15 min,Road Shoulder,Informal Common Spot
+R181,8.47616,124.681912,1,High Demand,Gusa National Highway,Puerto,5-10 min,Sidewalk,Anywhere Along Road
+R185,8.475093,124.682797,2,Moderate Demand,Gusa Crossing,Agusan,11-15 min,Sidewalk,Anywhere Along Road
+R188,8.474825,124.683116,0,Low Demand,Gusa Crossing,Gusa,>20 min,Sidewalk,Anywhere Along Road
+R189,8.4751,124.683063,2,Moderate Demand,Gusa Crossing,Cogon,16-20 min,Sidewalk,Informal Common Spot
+R190,8.475091,124.682998,2,Moderate Demand,Gusa Crossing,Cogon,>20 min,Under a Tree,Designated Stop
+R196,8.474965,124.683119,0,Low Demand,Gusa Crossing,Cogon,11-15 min,Road Shoulder,Anywhere Along Road
+R200,8.475985,124.681911,1,High Demand,Gusa National Highway,Tablon,<5 min,Sidewalk,Designated Stop
+R201,8.475031,124.682986,2,Moderate Demand,Gusa Crossing,Gusa,11-15 min,In Front of Establishment,Informal Common Spot
+R213,8.475211,124.68302,2,Moderate Demand,Gusa Crossing,Bugo,11-15 min,Sidewalk,Anywhere Along Road
+R214,8.474853,124.68295,0,Low Demand,Gusa Crossing,Cogon,5-10 min,Road Shoulder,Anywhere Along Road
+R215,8.474831,124.683033,0,Low Demand,Gusa Crossing,Gusa,11-15 min,Sidewalk,Designated Stop
+R221,8.475925,124.681855,1,High Demand,Gusa National Highway,Gusa,5-10 min,Sidewalk,Anywhere Along Road
+R222,8.47599,124.68209,1,High Demand,Gusa National Highway,Cogon,>20 min,Sidewalk,Anywhere Along Road
+R225,8.475973,124.682004,1,High Demand,Gusa National Highway,Cogon,11-15 min,Waiting Shed,Informal Common Spot
+R226,8.474872,124.682922,0,Low Demand,Gusa Crossing,Puerto,5-10 min,Sidewalk,Informal Common Spot
+R229,8.474916,124.683005,0,Low Demand,Gusa Crossing,Gusa,11-15 min,Sidewalk,Anywhere Along Road
+R230,8.475991,124.681964,1,High Demand,Gusa National Highway,Cogon,11-15 min,Sidewalk,Designated Stop
+R237,8.475965,124.682028,1,High Demand,Gusa National Highway,Cogon,11-15 min,Road Shoulder,Informal Common Spot
+R240,8.47496,124.682895,2,Moderate Demand,Gusa Crossing,Agusan,11-15 min,Road Shoulder,Designated Stop
+R241,8.475954,124.68193,1,High Demand,Gusa National Highway,Bugo,11-15 min,Sidewalk,Informal Common Spot
+R253,8.475963,124.682003,1,High Demand,Gusa National Highway,Cogon,5-10 min,Road Shoulder,Designated Stop
+R256,8.475733,124.682107,1,High Demand,Gusa National Highway,Agusan,11-15 min,Sidewalk,Informal Common Spot
+R259,8.475181,124.682991,2,Moderate Demand,Gusa Crossing,Cogon,11-15 min,In Front of Establishment,Informal Common Spot
+R261,8.47485,124.683162,0,Low Demand,Gusa Crossing,Cogon,11-15 min,In Front of Establishment,Anywhere Along Road
+R264,8.475997,124.682001,1,High Demand,Gusa National Highway,Bugo,5-10 min,Road Shoulder,Designated Stop
+R267,8.474958,124.683022,0,Low Demand,Gusa Crossing,Cogon,<5 min,Sidewalk,Informal Common Spot
+R268,8.476001,124.681952,1,High Demand,Gusa National Highway,Agusan,<5 min,Road Shoulder,Anywhere Along Road
+R272,8.474956,124.683001,0,Low Demand,Gusa Crossing,Cogon,>20 min,Others,Informal Common Spot
+R273,8.475922,124.681964,1,High Demand,Gusa National Highway,Puerto,16-20 min,Waiting Shed,Designated Stop
+R278,8.474844,124.682977,0,Low Demand,Gusa Crossing,Puerto,16-20 min,Sidewalk,Informal Common Spot
+R279,8.476161,124.68203,1,High Demand,Gusa National Highway,Cogon,11-15 min,Sidewalk,Anywhere Along Road
+R281,8.476003,124.682102,1,High Demand,Gusa National Highway,Cogon,16-20 min,Road Shoulder,Informal Common Spot
+R285,8.475004,124.682933,2,Moderate Demand,Gusa Crossing,Cogon,5-10 min,In Front of Establishment,Informal Common Spot
+R287,8.474991,124.682961,2,Moderate Demand,Gusa Crossing,Gusa,11-15 min,Sidewalk,Informal Common Spot
+R290,8.475955,124.681973,1,High Demand,Gusa National Highway,Cogon,11-15 min,Others,Designated Stop
+R294,8.475912,124.682091,1,High Demand,Gusa National Highway,Bugo,16-20 min,Waiting Shed,Designated Stop
+R296,8.475983,124.682013,1,High Demand,Gusa National Highway,Puerto,5-10 min,Sidewalk,Informal Common Spot
+R298,8.475875,124.681979,1,High Demand,Gusa National Highway,Agusan,16-20 min,Sidewalk,Anywhere Along Road
+R300,8.474849,124.682972,0,Low Demand,Gusa Crossing,Cugman,11-15 min,Sidewalk,Informal Common Spot
+R301,8.475283,124.683104,2,Moderate Demand,Gusa Crossing,Cogon,5-10 min,In Front of Establishment,Informal Common Spot
+R305,8.475027,124.682828,2,Moderate Demand,Gusa Crossing,Cugman,>20 min,Sidewalk,Designated Stop
+R307,8.475015,124.682938,2,Moderate Demand,Gusa Crossing,Bugo,11-15 min,Sidewalk,Informal Common Spot
+R308,8.474775,124.683182,0,Low Demand,Gusa Crossing,Bugo,>20 min,Others,Designated Stop
+R309,8.475094,124.683115,2,Moderate Demand,Gusa Crossing,Cogon,16-20 min,Sidewalk,Informal Common Spot
+R310,8.475933,124.682023,1,High Demand,Gusa National Highway,Cogon,<5 min,Waiting Shed,Anywhere Along Road
+R311,8.475078,124.68293,2,Moderate Demand,Gusa Crossing,Cogon,11-15 min,Under a Tree,Anywhere Along Road
+R320,8.475042,124.682871,2,Moderate Demand,Gusa Crossing,Bugo,5-10 min,Others,Informal Common Spot
+R327,8.475989,124.682093,1,High Demand,Gusa National Highway,Bugo,16-20 min,In Front of Establishment,Informal Common Spot
+R328,8.475947,124.681995,1,High Demand,Gusa National Highway,Cogon,16-20 min,Under a Tree,Designated Stop
+R329,8.476035,124.681942,1,High Demand,Gusa National Highway,Cogon,5-10 min,In Front of Establishment,Anywhere Along Road
+R339,8.476017,124.682037,1,High Demand,Gusa National Highway,Cogon,11-15 min,Sidewalk,Anywhere Along Road
+R341,8.475813,124.681892,1,High Demand,Gusa National Highway,Cogon,16-20 min,Sidewalk,Anywhere Along Road
+R342,8.476039,124.682046,1,High Demand,Gusa National Highway,Cogon,5-10 min,Sidewalk,Informal Common Spot
+R347,8.476082,124.681998,1,High Demand,Gusa National Highway,Gusa,>20 min,Under a Tree,Anywhere Along Road
+R349,8.475996,124.682111,1,High Demand,Gusa National Highway,Cogon,11-15 min,Waiting Shed,Anywhere Along Road
+R358,8.47505,124.683079,2,Moderate Demand,Gusa Crossing,Bugo,5-10 min,Sidewalk,Anywhere Along Road
+R367,8.474971,124.683106,0,Low Demand,Gusa Crossing,Puerto,5-10 min,In Front of Establishment,Informal Common Spot
+R373,8.47595,124.681795,1,High Demand,Gusa National Highway,Bugo,5-10 min,Sidewalk,Anywhere Along Road
+R379,8.474956,124.683105,0,Low Demand,Gusa Crossing,Cogon,16-20 min,Under a Tree,Informal Common Spot

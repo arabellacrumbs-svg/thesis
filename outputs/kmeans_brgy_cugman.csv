@@ -1,0 +1,33 @@
+respondent_id,lat,lon,kmeans_cluster,demand_level,modal_hotspot,alighting_barangay,waiting_time_cat,waiting_location,stopping_pattern
+R005,8.470062,124.705018,0,High Demand,Cugman Highway,Cogon,<5 min,Sidewalk,Anywhere Along Road
+R027,8.469089,124.706044,1,Moderate Demand,Cugman Crossing,Cugman,5-10 min,Sidewalk,Informal Common Spot
+R063,8.469998,124.705013,0,High Demand,Cugman Highway,Bugo,11-15 min,In Front of Establishment,Anywhere Along Road
+R065,8.468932,124.706123,1,Moderate Demand,Cugman Crossing,Cogon,5-10 min,Sidewalk,Anywhere Along Road
+R087,8.469889,124.70507,0,High Demand,Cugman Highway,Cogon,5-10 min,Road Shoulder,Anywhere Along Road
+R106,8.469017,124.706061,1,Moderate Demand,Cugman Crossing,Cugman,16-20 min,Waiting Shed,Informal Common Spot
+R119,8.46902,124.706092,1,Moderate Demand,Cugman Crossing,Cogon,16-20 min,Road Shoulder,Designated Stop
+R128,8.468806,124.706064,1,Moderate Demand,Cugman Crossing,Cogon,16-20 min,Road Shoulder,Designated Stop
+R149,8.469893,124.704888,2,Low Demand,Cugman Highway,Puerto,11-15 min,In Front of Establishment,Designated Stop
+R177,8.469975,124.705078,0,High Demand,Cugman Highway,Tablon,5-10 min,In Front of Establishment,Anywhere Along Road
+R183,8.469955,124.704962,0,High Demand,Cugman Highway,Cogon,>20 min,Sidewalk,Anywhere Along Road
+R184,8.469966,124.705076,0,High Demand,Cugman Highway,Gusa,5-10 min,Road Shoulder,Anywhere Along Road
+R195,8.470042,124.705017,0,High Demand,Cugman Highway,Cogon,16-20 min,In Front of Establishment,Anywhere Along Road
+R210,8.468827,124.706029,1,Moderate Demand,Cugman Crossing,Cogon,16-20 min,Road Shoulder,Informal Common Spot
+R238,8.469931,124.705028,0,High Demand,Cugman Highway,Puerto,5-10 min,Road Shoulder,Anywhere Along Road
+R254,8.469011,124.705887,1,Moderate Demand,Cugman Crossing,Cogon,16-20 min,Sidewalk,Informal Common Spot
+R255,8.469739,124.704922,2,Low Demand,Cugman Highway,Cogon,5-10 min,Others,Anywhere Along Road
+R258,8.469983,124.705069,0,High Demand,Cugman Highway,Cugman,<5 min,Others,Informal Common Spot
+R269,8.469964,124.704963,0,High Demand,Cugman Highway,Cogon,<5 min,Sidewalk,Informal Common Spot
+R271,8.470076,124.704892,0,High Demand,Cugman Highway,Cogon,11-15 min,Sidewalk,Designated Stop
+R293,8.469,124.7061,1,Moderate Demand,Cugman Crossing,Agusan,16-20 min,Others,Designated Stop
+R318,8.468981,124.705967,1,Moderate Demand,Cugman Crossing,Cogon,11-15 min,Road Shoulder,Informal Common Spot
+R325,8.470183,124.705046,0,High Demand,Cugman Highway,Cogon,>20 min,Under a Tree,Designated Stop
+R331,8.468972,124.705932,1,Moderate Demand,Cugman Crossing,Cogon,>20 min,Under a Tree,Anywhere Along Road
+R337,8.469826,124.704742,2,Low Demand,Cugman Highway,Cogon,<5 min,In Front of Establishment,Anywhere Along Road
+R338,8.470019,124.70511,0,High Demand,Cugman Highway,Agusan,11-15 min,In Front of Establishment,Informal Common Spot
+R344,8.469106,124.706065,1,Moderate Demand,Cugman Crossing,Bugo,5-10 min,Waiting Shed,Designated Stop
+R354,8.470056,124.705041,0,High Demand,Cugman Highway,Cogon,5-10 min,Sidewalk,Designated Stop
+R360,8.469933,124.704862,2,Low Demand,Cugman Highway,Cogon,11-15 min,Sidewalk,Anywhere Along Road
+R371,8.470062,124.705064,0,High Demand,Cugman Highway,Bugo,5-10 min,Others,Informal Common Spot
+R380,8.469909,124.704879,2,Low Demand,Cugman Highway,Cogon,>20 min,Sidewalk,Designated Stop
+R382,8.470029,124.705043,0,High Demand,Cugman Highway,Cogon,11-15 min,Road Shoulder,Anywhere Along Road

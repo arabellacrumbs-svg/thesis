@@ -1,0 +1,40 @@
+respondent_id,lat,lon,kmeans_cluster,demand_level,modal_hotspot,alighting_barangay,waiting_time_cat,waiting_location,stopping_pattern
+R001,8.482071,124.728511,2,High Demand,Tablon Crossing,Cogon,16-20 min,Sidewalk,Anywhere Along Road
+R030,8.481988,124.728441,0,Moderate Demand,Tablon Crossing,Bugo,16-20 min,In Front of Establishment,Designated Stop
+R053,8.482089,124.728515,2,High Demand,Tablon Crossing,Cogon,5-10 min,Road Shoulder,Designated Stop
+R062,8.481984,124.728515,2,High Demand,Tablon Crossing,Cugman,16-20 min,Sidewalk,Informal Common Spot
+R070,8.482016,124.728438,0,Moderate Demand,Tablon Crossing,Cogon,16-20 min,Others,Anywhere Along Road
+R071,8.481986,124.728282,0,Moderate Demand,Tablon Crossing,Cogon,5-10 min,Sidewalk,Designated Stop
+R073,8.481889,124.728322,0,Moderate Demand,Tablon Crossing,Cogon,16-20 min,In Front of Establishment,Designated Stop
+R077,8.481961,124.728502,2,High Demand,Tablon Crossing,Cogon,16-20 min,Sidewalk,Anywhere Along Road
+R079,8.48191,124.728475,2,High Demand,Tablon Crossing,Cogon,11-15 min,In Front of Establishment,Designated Stop
+R094,8.481982,124.728615,2,High Demand,Tablon Crossing,Puerto,11-15 min,Road Shoulder,Informal Common Spot
+R096,8.482107,124.728426,0,Moderate Demand,Tablon Crossing,Cogon,11-15 min,Sidewalk,Anywhere Along Road
+R111,8.481924,124.728476,2,High Demand,Tablon Crossing,Agusan,11-15 min,Sidewalk,Informal Common Spot
+R131,8.481956,124.728592,2,High Demand,Tablon Crossing,Cogon,16-20 min,Sidewalk,Informal Common Spot
+R133,8.482032,124.728374,0,Moderate Demand,Tablon Crossing,Cogon,5-10 min,In Front of Establishment,Anywhere Along Road
+R136,8.481924,124.728539,2,High Demand,Tablon Crossing,Cogon,>20 min,Road Shoulder,Designated Stop
+R139,8.481008,124.729597,1,Low Demand,Tablon Highway,Cogon,11-15 min,Sidewalk,Informal Common Spot
+R144,8.482013,124.728453,0,Moderate Demand,Tablon Crossing,Cogon,5-10 min,In Front of Establishment,Anywhere Along Road
+R156,8.481048,124.729485,1,Low Demand,Tablon Highway,Bugo,<5 min,In Front of Establishment,Anywhere Along Road
+R178,8.481118,124.729485,1,Low Demand,Tablon Highway,Agusan,<5 min,Road Shoulder,Informal Common Spot
+R187,8.480874,124.729475,1,Low Demand,Tablon Highway,Cogon,<5 min,In Front of Establishment,Designated Stop
+R202,8.481752,124.728636,2,High Demand,Tablon Crossing,Cogon,5-10 min,Road Shoulder,Anywhere Along Road
+R203,8.481967,124.728546,2,High Demand,Tablon Crossing,Cogon,5-10 min,Waiting Shed,Designated Stop
+R204,8.480893,124.729469,1,Low Demand,Tablon Highway,Tablon,5-10 min,Under a Tree,Informal Common Spot
+R206,8.481992,124.728473,2,High Demand,Tablon Crossing,Puerto,5-10 min,Under a Tree,Designated Stop
+R212,8.480854,124.72939,1,Low Demand,Tablon Highway,Cogon,11-15 min,Road Shoulder,Informal Common Spot
+R217,8.480992,124.729667,1,Low Demand,Tablon Highway,Bugo,5-10 min,In Front of Establishment,Designated Stop
+R220,8.481896,124.728511,2,High Demand,Tablon Crossing,Cogon,11-15 min,Sidewalk,Informal Common Spot
+R223,8.482096,124.728382,0,Moderate Demand,Tablon Crossing,Cogon,<5 min,Waiting Shed,Designated Stop
+R235,8.482027,124.728424,0,Moderate Demand,Tablon Crossing,Cogon,>20 min,Sidewalk,Anywhere Along Road
+R251,8.481955,124.728379,0,Moderate Demand,Tablon Crossing,Cugman,5-10 min,Sidewalk,Anywhere Along Road
+R257,8.482025,124.728543,2,High Demand,Tablon Crossing,Cogon,5-10 min,Sidewalk,Anywhere Along Road
+R266,8.481999,124.728496,2,High Demand,Tablon Crossing,Cogon,11-15 min,Waiting Shed,Anywhere Along Road
+R276,8.482069,124.728383,0,Moderate Demand,Tablon Crossing,Cogon,16-20 min,Sidewalk,Designated Stop
+R335,8.481987,124.728541,2,High Demand,Tablon Crossing,Cogon,16-20 min,Sidewalk,Informal Common Spot
+R351,8.48211,124.728629,2,High Demand,Tablon Crossing,Cogon,<5 min,Sidewalk,Designated Stop
+R359,8.481128,124.729294,1,Low Demand,Tablon Highway,Cogon,5-10 min,Waiting Shed,Anywhere Along Road
+R362,8.482097,124.728646,2,High Demand,Tablon Crossing,Cugman,11-15 min,Sidewalk,Informal Common Spot
+R374,8.482103,124.728472,0,Moderate Demand,Tablon Crossing,Puerto,5-10 min,Road Shoulder,Anywhere Along Road
+R375,8.48087,124.729574,1,Low Demand,Tablon Highway,Tablon,16-20 min,Road Shoulder,Designated Stop

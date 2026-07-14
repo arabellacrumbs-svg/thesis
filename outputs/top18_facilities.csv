@@ -1,0 +1,19 @@
+rank,barangay,modal_hotspot,lat,lon,demand_level,composite_score,overall_demand,facility_type
+1,Gusa,Gusa National Highway,8.476,124.682,High Demand,177,High Demand,Terminal
+2,Bugo,Bugo Highway,8.507,124.7535,High Demand,156,Moderate Demand,Terminal
+3,Puerto,Puerto National Highway,8.5005,124.7505,High Demand,84,Moderate Demand,Waiting Station
+4,Bugo,Bugo Public Market,8.5055,124.754,Moderate Demand,72,Moderate Demand,Waiting Station
+5,Gusa,Gusa Crossing,8.475,124.683,Moderate Demand,56,High Demand,Waiting Station
+6,Tablon,Tablon Crossing,8.482,124.7285,High Demand,54,Low Demand,Terminal
+7,Cugman,Cugman Highway,8.47,124.705,High Demand,48,High Demand,Terminal
+8,Puerto,Puerto Junction,8.5015,124.7495,Moderate Demand,42,Moderate Demand,Loading/Unloading Zone
+9,Agusan,Agusan Highway,8.4895,124.737,High Demand,30,Low Demand,Terminal
+10,Bugo,Bugo Public Market,8.5055,124.754,Low Demand,27,Moderate Demand,Waiting Station
+11,Tablon,Tablon Crossing,8.482,124.7285,Moderate Demand,24,Low Demand,Waiting Station
+12,Gusa,Gusa Crossing,8.475,124.683,Low Demand,23,High Demand,Waiting Station
+13,Cugman,Cugman Crossing,8.469,124.706,Moderate Demand,22,High Demand,Loading/Unloading Zone
+14,Agusan,Agusan Crossing,8.4885,124.738,Moderate Demand,18,Low Demand,Waiting Station
+15,Puerto,Puerto National Highway,8.5005,124.7505,Low Demand,17,Moderate Demand,Waiting Station
+16,Tablon,Tablon Highway,8.481,124.7295,Low Demand,9,Low Demand,Waiting Station
+17,Cugman,Cugman Highway,8.47,124.705,Low Demand,5,High Demand,Waiting Station
+18,Agusan,Agusan Highway,8.4895,124.737,Low Demand,4,Low Demand,Waiting Station
